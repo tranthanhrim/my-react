@@ -1,0 +1,1323 @@
+[fallback]
+ID="-6.2088,106.8456"
+
+[chain.mcdonalds]
+image="https://growth-public.grab.com/sandbox/imagegallery/OuxXlkPYshONtlabORiffLmOgDNZyFxG.jpg"
+chainName="McDonald's"
+numbers='["McDonalds"]'
+countries='["ID"]'
+
+[chain.mcdonalds.locales.en]
+heading="\"\""
+body="Who hasn't heard about McD before? This fast food restaurant satisfies your burger cravings with its favorite burger line-up including Cheeseburger, Fish Fillet Burger, McChicken, Big Mac in Double, Triple, and Big sizes. Not only that, McD also specializes in fried chicken and french fries.\\n\\nIn Indonesia, McD is also well known for its yummy McFlurry ice cream, with a lot of different flavors to freshen you up after a meal. \\n\\nCome order McDonald's and GrabFood will deliver it to you. "
+
+[chain.mcdonalds.locales.id]
+heading="\"\""
+body="Siapa yang nggak kenal McD? Restoran makanan siap saji ini memanjakan lidah pelanggan dengan kelezatan ayam goreng, burger dan kentang gorengnya. \\n\\nMenu favoritnya termasuk Cheeseburger, Fish Fillet Burger, McChicken dan Big Mac dalam ukuran double, triple dan bahkan \"big\". Selain barisan burger, di Indonesia McD juga terkenal dengan McFlurry, es krim pilihan berbagai rasa yang menyegarkan harimu. \\n\\nYuk, pesan sekarang dan biar GrabFood mengantarkannya untukmu."
+
+
+[chain.hokben]
+image="https://growth-public.grab.com/sandbox/imagegallery/dXVdBTrBbahxIwLZwYsVUDypLlrWWpER.jpg"
+chainName="HokBen"
+numbers='["HokBen"]'
+countries='["ID"]'
+
+[chain.hokben.locales.en]
+heading="\"\""
+body="Thinking of Japanese food? Let HokBen take you to Japan and serve you authentic Beef Teriyaki, Beef Yakiniku, Chicken Katsu, Ebi Furai, fresh salads, and sukiyaki soup. \\n\\nFeeling a bit local? Try out HokBen's take on local food, combining it with a Japanese flavour. \\n\\nNow you don't have to go all the way to Japan. Take your pick from HokBen and GrabFood will deliver it to you."
+
+[chain.hokben.locales.id]
+heading="\"\""
+body="Lagi ngidam makanan Jepang? HokBen siap membawamu lidahmu ke Jepang dengan mencicipi Beef Teriyaki, Beef Yakiniku, Chicken Katsu, Ebi Furai sampai salad dan sup sukiyaki. HokBen juga mempunyai barisan menu yang terinspirasi dari cita rasa lokal Indonesia. \\n\\nNggak perlu jauh-jauh ke Jepang. Makan HokBen aja yuk, GrabFood yang anterin pesananmu."
+
+
+[chain.kfc]
+image="https://growth-public.grab.com/sandbox/imagegallery/FkHTKmcUqsURwLZbpUeblzuHNjKDeVTG.jpg"
+chainName="KFC"
+numbers='["KFC"]'
+countries='["ID"]'
+
+[chain.kfc.locales.en]
+heading="\"\""
+body="Who can really escape from the scent of KFC's 11 spices coated fried chicken? Be it their crispy or original fried chicken, nothing is quite like it! \\n\\nNot only fried chicken, KFC brings along its fried chicken on a food adventure with cream soup, KFC wraps, KFC bento, and so much more. For a bigger group, KFC proudly provides its KFC bucket series, because sharing is caring.\\n\\nWe can't stop thinking of that golden crispy fried chicken's skin now. Order now and let GrabFood deliver it to you. "
+
+[chain.kfc.locales.id]
+heading="\"\""
+body="Siapa yang bisa lari dari wanginya ayam goreng KFC? Baik ayam goreng crispy maupun originalnya sudah nggak asing lagi di lidah kita. \\n\\nSelain ayam yang digoreng dengan 11 bumbu rahasia, KFC juga punya banyak menu lain seperti sup krim, KFC wraps, KFC bento dan lain sebagainya. Buat yang mau makan rame-rame, KFC punya KFC bucket loh!\\n\\nAduh, jadi terbayang-bayang lezatnya kulit ayam KFC! Pesen yuk, biar GrabFood yang anterin. \\n"
+
+
+[chain.geprek-bensu]
+image="https://growth-public.grab.com/sandbox/imagegallery/LKAJpcRTvaoLfkWhYTQmyODwLkMeAQzP.jpg"
+chainName="Geprek Bensu"
+numbers='["GeprekBensu"]'
+countries='["ID"]'
+
+[chain.geprek-bensu.locales.en]
+heading="\"\""
+body="Serving ayam Geprek, Geprek Keju, Geprek Leleh, and the Garpu package, the restaurant combines the spicy chicken with creamy mozarella cheese. The menu line-up is complemented by Mie Ayam Geprek, for those who claim themselves as noodle lovers.\\n\\nSpiciness level is adjustable, so anyone can enjoy it, be it you who just started to eat spicy food to the spicy food masters (and lovers) out there.\\n\\nWhat are you waiting for? Spice it up and let GrabFood deliver it to you."
+
+[chain.geprek-bensu.locales.id]
+heading="\"\""
+body="Ayam Geprek Bensu punya menu andalan ayam geprek- ayam dengan variasi sambal rawit yang pedas, gurih dan renyah.\\n\\nRestoran ini juga menawarkan ayam Geprek Keju, Geprek Leleh dan paket Garpu. Tidak ketinggalan juga Mie Ayam Geprek untuk mereka yang hatinya nggak bisa berpaling dari mie goreng.\\n\\nSemua menu bisa diatur level kepedasannya, jadi bisa dimakan siapa saja mulai dari yang baru belajar makan pedas sampai yang udah jago.\\n\\nTunggu apa lagi? Pesen yuk, biar GrabFood yang anterin."
+
+
+[chain.chatime]
+image="https://growth-public.grab.com/sandbox/imagegallery/mwUPzIMhfBtuFpxZfjbZoUixOxImMWRm.jpg"
+chainName="Chatime"
+numbers='["Chatime"]'
+countries='["ID"]'
+
+[chain.chatime.locales.en]
+heading="\"\""
+body="Calling all boba and bubble tea lovers out there!\\n\\nChatime serves Taiwanese pearl milk tea, with assorted flavors such as taro, hazelnut, thai milk tea, strawberry, matcha, jasmine green, roasted, vanilla, and caramel.\\n\\nWhen you're not in the mood for bubble tea, try out Chatime's fresh tea, fruit tea, mousse, juice, smoothies, and of course, coffee.\\n\\nThirsty? Order your Chatime drinl, let GrabFood deliver it to you. "
+
+[chain.chatime.locales.id]
+heading="\"\""
+body="Memanggil semua pecinta bubble tea dan boba di luar sana!\\n\\nChatime menyajikan pearl milk tea ala Taiwan dengan varian rasa seperti taro, hazelnut, thai milk tea, strawberry, matcha, jasmine green, roasted, vanilla dan caramel.\\n\\nBukan cuma itu, kamu juga bisa pesan fruit tea, mousse, jus, smoothie dan nggak ketinggalan, kopi juga ada loh!\\n\\nHaus? Pesen Chatime yuk, GrabFood yang anterin."
+
+
+[chain.i-am-geprek]
+image="https://growth-public.grab.com/sandbox/imagegallery/uCogyINQpvoIwFwYNcQtlKVENhXeNcPx.jpg"
+chainName="I Am Geprek"
+numbers='["IAmGeprek"]'
+countries='["ID"]'
+
+[chain.i-am-geprek.locales.en]
+heading="\"\""
+body="Ayam Geprek is easily associated with Indonesia. I Am Geprek serves the complete set of the Geprek series- Ayam Geprek, Geprek Keju, Geprek Leleh, and Nasi Ijo Ayam Geprek.\\n\\nStaying true to local flavor, I Am Geprek also serves noodles, salted egg, and tofu.\\n\\nTaste some local flavor, delivered to you by GrabFood."
+
+[chain.i-am-geprek.locales.id]
+heading="\"\""
+body="Ayam geprek memang khasnya Indonesia. I Am Geprek menyajikan paket Ayam Geprek, Geprek Keju, Geprek Leleh dan Nasi Ijo Ayam Geprek. \\n\\nNggak cuma itu, restoran ini juga menyediakan mie, telor asin dan tahu, cita rasa asli Indonesia. \\n\\nEnak buat makan siang kamu, nih. Pesen yuk, biar GrabFood yang anterin."
+
+
+[chain.pizza-hut-delivery-phd]
+image="https://growth-public.grab.com/sandbox/imagegallery/veBNEVHNsqtzIxfduQrUgXiZNoVUTwfP.jpg"
+chainName="Pizza Hut Delivery 'PHD'"
+numbers='["PizzaHutDeliveryPHD"]'
+countries='["ID"]'
+
+[chain.pizza-hut-delivery-phd.locales.en]
+heading="\"\""
+body="Craving for pizza? Try Pizza Hut Delivery a.k.a PHD who will prep your meals in less than 30 minute. PHD also serves takeaway orders for you.\\n\\nPHD menu is identical to Pizza Hut with American Favorite, Meat Lover and Cheese Supreme among the crowd's pleasers. Have it on your own or share it as PHD also serves sepcial party box!\\n\\nSatisfy your pizza cravings, let GrabFood deliver it to you."
+
+[chain.pizza-hut-delivery-phd.locales.id]
+heading="\"\""
+body="Kepingin makan pizza? Cobain Pizza Hut Delivery alias PHD yang akan menyiapkan pesananmu dalam kurang dari 30 menit. PHD juga melayani pesanan untuk dibungkus dan dibawa pulang.\\n\\nMenunya sama dengan Pizza Hut, dengan berbagai topping dan pilihan pinggiran pizza buat kamu makan sendiri, atau bagi rame-rame sama teman-teman. Ada American Favorite, Meat Lover, Cheese Supreme dan bahkan party box!\\n\\nPesen Pizza Hut Delivery yuk, biar GrabFood yang anterin."
+
+
+[chain.richeese-factory]
+image="https://growth-public.grab.com/sandbox/imagegallery/QwMWoncgSXOYcGoCJeWnFCANLMcLYFNX.jpg"
+chainName="Richeese Factory"
+numbers='["RicheeseFactory"]'
+countries='["ID"]'
+
+[chain.richeese-factory.locales.en]
+heading="\"\""
+body="Richeese Factory is one of Indonesia's very own fast food chain restaurant. Richeese Factory's top menu is battered fried chicken served with their special homemade cheese sauce.\\n\\nNot only that, they're also famous for their out-of-this-world Hot & Spicy Chicken, Fire Chicken and Fire Wings, wherein the spiciness level is adjusted to your liking.\\n\\nPsst, try their Fire Chicken and prove it for yourself. Curious? Order one now and GrabFood will happily deliver it to you."
+
+[chain.richeese-factory.locales.id]
+heading="\"\""
+body="Richeese Factory adalah salah satu jaringan restoran siap saji asal Indonesia. Menu andalan Richeese Factory adalah olahan daging ayam yang digoreng dengan balutan tepung dan disajikan dengan saus keju mereka yang terkenal.\\n\\nRicheese Factory juga menyedoakan Hot & Spicy Chicken, Fire Chicken dan Fire Wings, yang bisa kamu pilih sendiri level kepedasannya.\\n\\nPsst, Fire Chicken dari Richeese bener-bener unik pedasnya loh! Penasaran? Pesan yuk, biar GrabFood yang anterin."
+
+
+[chain.pizza-hut]
+image="https://growth-public.grab.com/sandbox/imagegallery/veBNEVHNsqtzIxfduQrUgXiZNoVUTwfP.jpg"
+chainName="Pizza Hut"
+numbers='["PizzaHut"]'
+countries='["ID"]'
+
+[chain.pizza-hut.locales.en]
+heading="\"\""
+body="Pizza Hut was one of the oldest pizza restaurants in Indonesia. With age comes experience. Pizza Hut proudly serves all-time favorites- American Favorite, Meat Lover, and Cheese Supreme. They also serve other Italian specialties, such as Beef Fettucine, Chicken Lasagna, and Italian Soda.\\n\\nNot in the mood for a full meal? Munch on Cheese Fondue, Bruschetta Bread, Chicken Stick, or Fresh Salad.\\n\\nSatisfy your pizza cravings, let GrabFood deliver it to you."
+
+[chain.pizza-hut.locales.id]
+heading="\"\""
+body="Pizza Hut adalah salah satu restoran pizza tertua di Indonesia. Dengan umur, datang juga pengalaman. Pizza Hut dengan bangga menyajikan American Favorite, Meat Lover dan Cheese Supreme, favorit semua orang. Pizza Hut juga menyajikan makanan khas Italia lainnya seperti Beef Fettucine, Chicken Lasagna dan Italian Soda.\\n\\nLagi nggak pengen makan berat? Nyemil Cheese Fondue, Bruschetta Bread, Chicken Stick atau Fresh Salad juga boleh, kok.\\n\\nPesen Pizza Hut Delivery yuk, biar GrabFood yang anterin."
+
+
+[chain.ayam-keprabon-express]
+image="https://growth-public.grab.com/sandbox/imagegallery/LKAJpcRTvaoLfkWhYTQmyODwLkMeAQzP.jpg"
+chainName="Ayam Keprabon Express"
+numbers='["AyamKeprabonExpress"]'
+countries='["ID"]'
+
+[chain.ayam-keprabon-express.locales.en]
+heading="\"\""
+body="Indonesia is blessed with the richness of local cuisines. All the way from Solo, Ayam Keprabon Express serves delicacies and culinary from Solo, including Ayam Geprek and Ayam Kremes. Their menu comes with different sizes from mini, jumbo, xtra and blenger.\\n\\nFor Ayam Keprabon Express, the most important things are- taste, service and speed in responding to customers' inquiries.\\n\\nLet's have some Ayam Keprabon, shall we? GrabFood will deliver it to you."
+
+[chain.ayam-keprabon-express.locales.id]
+heading="\"\""
+body="Indonesia adalah negara yang besar dengan ribuan pulau. Karenanya, Indonesia juga kaya akan berbagai masakan lokal. Datang untuk memperkenalkan kuliner Solo, Ayam Keprabon Express menyediakan Ayam Geprek dan Ayam Kremes dalam berbagai ukuran seperti mini, jumbo, xtra dan blenger.\\n\\nBagi Ayam Keprabon Express, yang terpenting adalah rasa, pelayanan dan kecepatan menanggapi permintaan pelanggan.\\n\\nMakan Ayam Keprabon yuk? Dianterin GrabFood, deh. "
+
+
+[chain.ayam-gepuk-pak-gembus]
+image="https://growth-public.grab.com/sandbox/imagegallery/xcHHeVWCAeqADIvmnIxfICgqUXrmdDIx.jpg"
+chainName="Ayam Gepuk Pak Gembus"
+numbers='["AyamGepukPakGembus"]'
+countries='["ID"]'
+
+[chain.ayam-gepuk-pak-gembus.locales.en]
+heading="\"\""
+body="Have you heard of Ayam Gepuk Pak Gembus?\\n\\nThis restaurant is famous for its ayam gepuk. Their secret though, lies on the onion chili. Spiciness level is adjustable, so no reason to not enjoy it together with ayam gepuk.\\n\\nFor rice lovers, you can get an additional bowl of rice for free!\\n\\nMake Ayam Gepuk Pak Gembus your favorite, delivered to you by GrabFood."
+
+[chain.ayam-gepuk-pak-gembus.locales.id]
+heading="\"\""
+body="Udah pernah denger tentang Ayam Gepuk Pak Gembus?\\n\\nRestoran ini terkenal banget dengan ayam gepuknya. Tapi, rahasianya ada di sambal bawangnya! Kamu bisa sesuaikan level kepedasannya, jadi nggak ada alasan untuk tidak menikmati sambal bawang pak Gembus.\\n\\nBuat yang doyan nasi, kamu boleh nambah satu porsi nasi putih gratis loh!\\n\\nJadiin Ayam Gepuk Pak Gembus favoritmu, yuk. Dianterin sama GrabFood."
+
+
+[chain.gokana-ramen--teppan]
+image="https://growth-public.grab.com/sandbox/imagegallery/mONJIQbKRMnHzXQdArHrEyxxYEdtVaNc.jpg"
+chainName="Gokana Ramen & Teppan"
+numbers='["GokanaRamenTeppan"]'
+countries='["ID"]'
+
+[chain.gokana-ramen--teppan.locales.en]
+heading="\"\""
+body="One of our favorite Japanese restaurants- Gokana Ramen & Teppan!\\n\\nTry Ramen, Teppan, Bento, Chicken Nanban, or Beer Original Bento. They are yummy!\\n\\nNot only yummy, Gokana Ramen & Teppan was also halal certified by MUI in 2017.\\n\\nWhat are you waiting for? Order now and let GrabFood deliver it to you."
+
+[chain.gokana-ramen--teppan.locales.id]
+heading="\"\""
+body="Satu lagi jagoan masakan Jepang di Indonesia- Gokana Ramen & Teppan!\\n\\nCobain Ramen, Teppan, Bento, Chicken Nanban atau Beef Original Bento mereka, deh. Enak banget! Gokana Ramen & Teppan adalah restoran halal, dan sudah dapat sertifikatnya di tahun 2017 lalu dari MUI.\\n\\nTunggu apa lagi? Pesan yuk, biar GrabFood yang anterin."
+
+
+[chain.jco-donuts--coffee]
+image="https://growth-public.grab.com/sandbox/imagegallery/aLCpMNvhOzwfTGjvxmYlokjpSTYWDHeG.jpg"
+chainName="J.CO Donuts & Coffee"
+numbers='["JCODonutsCoffee"]'
+countries='["ID"]'
+
+[chain.jco-donuts--coffee.locales.en]
+heading="\"\""
+body="Meet J.Co Donuts' fluffy line-up- Al Capone, Avocado Dicaprio, Berry Spears, Tira Miss U, and many more!\\n\\nJ.CO has more than 45 flavors of donuts. They also serve killer coffee, sandwhiches, and JPops (mini donuts).\\n\\nWhen you're not in the mood for sweet stuff, try their J.Cool yoghurt with variety of toppings available for you.\\n\\nGet your J.Co now and let GrabFood deliver it to you.\\n"
+
+[chain.jco-donuts--coffee.locales.id]
+heading="\"\""
+body="Kenalan yuk sama donat lembut dari J.Co- Al Capone, Avocado Dicaprio, Berry Spears, Tira Miss U dan masih banyak lagi!\\n\\nJ.Co punya lebih dari 45 rasa donat. Mereka juga punya kopi yang enak, sandwich dan JPops alias donat mini.\\n\\nKalau lagi nggak kepingin makan manis, cobain J.Cool, yoghurt dengan berbagai topping yang tersedia untukmu.\\n\\nPesen J.Co yuk, biar GrabFood yang anterin."
+
+
+[chain.bakmi-gm]
+image="https://growth-public.grab.com/sandbox/imagegallery/gbtjkLSkPqVBQQrnDfclglwzqiQOCEtM.jpg"
+chainName="Bakmi GM"
+numbers='["BakmiGM"]'
+countries='["ID"]'
+
+[chain.bakmi-gm.locales.en]
+heading="\"\""
+body="Bakmi GM is here to remind you of the oldie but goodie yummy bakmi. This restaurant is famous for its Bakmi Special GM Pangsit Goreng,Bakmi Goreng, Bakmi Special GM Bakso dan Nasi Ayam GM Pangsit Goreng. Bakmi GM's pangsit (wonton) is a legend on its own. \\n\\nNot only that, Bakmi GM also offers other specialties such as  Ayam Saus Thai, Nasi Ayam Lada Cha Cha, Bakso ataupun Nasi Ayam Cah Jamur/Cabai. \\n\\n\\nCraving for Bakmi GM? Let GrabFood deliver it to you."
+
+[chain.bakmi-gm.locales.id]
+heading="\"\""
+body="Bakmi GM memuaskan kerinduanmu pada bakmi klasik nusantara yang lezat. Restoran ini sangat terkenal dengan Bakmi Special GM Pangsit Goreng, Bakmi Goreng, Bakmi Special GM Bakso dan Nasi Ayam GM Pangsit Goreng. Kenapa pangsit semua? Karena pangsit dari bakmi GM sudah terkenal tiada bandingannya.\\n\\nBukan cuma itu, Bakmi GM juga menawarkan berbagai menu lainnya seperti Ayam Saus Thai, Nasi Ayam Lada Cha Cha, Bakso ataupun Nasi Ayam Cah Jamur/Cabai. \\n\\n\\nMau Bakmi GM? GrabFood yang anterin deh."
+
+
+[chain.solaria]
+image="https://growth-public.grab.com/sandbox/imagegallery/CJyaQUhKryHGAnhCNnpcdXiYztqkdncS.jpg"
+chainName="Solaria"
+numbers='["Solaria"]'
+countries='["ID"]'
+
+[chain.solaria.locales.en]
+heading="\"\""
+body="Solaria is a family restaurant that offers the casual dining experience. They're well known for Nasi Goreng Solaria, Kwetiau Solaria and Chicken Cordon, Bleu Solaria.\\n\\nOne of Solaria's commitments is to serve fresh food, made to order and of course, made with only the best ingredients.\\n\\nFor healthy and fresh food, let's order from Solaria. GrabFood will happily deliver it to you.\\n"
+
+[chain.solaria.locales.id]
+heading="\"\""
+body="Solaria adalah salah satu restoran keluarga favorit yang menawarkan pengalaman casual dining. Menu Solaria yang terkenal antara lain Nasi Goreng Solaria, Kwetiau Solaria dan Chicken Cordon Bleu Solaria.\\n\\nSalah satu komitmen Solaria adalah menyajikan makanan segar dan baru dimasak begitu makanan tersebut dipesan, tentunya dengan menggunakan bahan-bahan terbaik. \\n\\nUntuk makanan sehat dan segar, pesan Soalria aja, yuk. Dianterin sama GrabFood dong."
+
+
+[chain.dominos]
+image="https://growth-public.grab.com/sandbox/imagegallery/LlgfUFvyCdGJHwwiUgHfKbrGerlXCmKO.jpg"
+chainName="Dominos"
+numbers='["DominosPizza"]'
+countries='["ID"]'
+
+[chain.dominos.locales.en]
+heading="\"\""
+body="Try out the American Classic Cheeseburger, Extravaganza, Tuna Delight, or Beef Pepperoni Feast. Longing for that authentic Italian pizza? Try Domino's handtossed pizza, 100% handmade with no machine involved.\\n\\nFor you pasta folks, Domino's serves Spicy Tuna Mac' N Cheese, Chicken Creamy Sphagetti, and so much more. We also can't get enough of their scrumptious dipping sauces, they're to die for!\\n\\nCraving for Pizza? Why not order some from Domino's Pizza? Let GrabFood deliver it to you."
+
+[chain.dominos.locales.id]
+heading="\"\""
+body="Domino's Pizza punya motto \"menjual pizza dan bersenang-senang\". \\n\\nCobain deh menu American Classic Cheeseburger, Extravaganza, Tuna Delight atau Beef Pepperoni Feast. Atau coba pizza handtossednya, dibuat 100% dengan tangan dan bukan dengan mesin.\\n\\nUntuk menu pasta, ada Spicy Tuna Mac' N Cheese, Chicken Creamy Sphagetti dan masih banyak lagi. Belum lagi berbagai pilihan sausnya, mmmm.... nggak ada yang ngalahin!\\n\\nKepingin pizza kan? Kenapa nggak Domino's Pizza aja? GrabFood yang anterin, loh."
+
+
+[chain.shihlin]
+image="https://growth-public.grab.com/sandbox/imagegallery/izZYsehYCiZTojrZhnhRBABggaOMqUnY.jpg"
+chainName="Shihlin"
+numbers='["Shihlin"]'
+countries='["ID"]'
+
+[chain.shihlin.locales.en]
+heading="\"\""
+body="It's the perfect time to munch on some snacks! At your service, Shihlin is ready to serve it's XXL Crispy Chicken. It comes with different flavors to choose from, including original, barbeque, and seaweed.\\n\\nSihlin started out as a small booth in Taiwan's night market. Even though it was small, people would line up to get their hands on this yummy snack. Lucky for us, Sihlin is now available in some countries in South East Asia.\\n\\nHave some Shihlin, you just sit tight and let GrabFood deliver it to you."
+
+[chain.shihlin.locales.id]
+heading="\"\""
+body="Waktunya nyemil, nih! Pas banget, ada Shihlin yang siap memanjakanmu dengan XXL Crispy Chicken andalannya. Berbagai varian rasa tersedia untuk menu ini, termasuk original, barbeque dan seaweed.\\n\\nShihlin dulunya hanya kedai sederhana di pasar malam di Taiwan loh. Tapi saking enaknya, banyak orang yang rela antri buat jajanan pasar ini. Sekarang Shihlin tersedia di beberapa negara di Asia Tenggara.\\n\\nCemilin Shihlin yuk, kamu duduk tenang aja, GrabFood yang anterin."
+
+
+[chain.dcost]
+image="https://growth-public.grab.com/sandbox/imagegallery/HduYOAgTqLVNewCUfTMemiTxorFzrLzX.jpg"
+chainName="d'cost"
+numbers='["DCost"]'
+countries='["ID"]'
+
+[chain.dcost.locales.en]
+heading="\"\""
+body="Thinking of high quality seafood but with reasonable prices? Fret not, D'cost is here. With its headquarters in Jakarta, D'cost has made a name for itself through Udang Mayones, Kepiting Saus Padang, Gurame Bakar Pedas, dan Cumi Goreng Tepung. The taste? There's no doubt about it!\\n\\nD'cost has also been halal certified since 2012. It's the first seafood chain restaurant to get the certification from LPPOM MUI. \\n\\nYou can easily order food from D'cost and GrabFood will deliver it to your doorstep."
+
+[chain.dcost.locales.id]
+heading="\"\""
+body="Kepingin makan seafood rasa hotel bintang lima, tapi harga kaki lima? Tenang, ada D'cost. Bermarkas di Jakarta, D'cost terkenal banget dengan Udang Mayones, Kepiting Saus Padang, Gurame Bakar Pedas dan Cumi Goreng Tepung. Rasanya? Nggak usah ditanya lagi.\\n\\nD'cost juga sudah dapat sertifikasi halal dari tahun 2012. Mereka adalah restoran franchise seafood pertama yang diberikan label halal oleh LPPOM MUI. Sekarang, kamu bisa pesen D'cost dan biar GrabFood yang anterin sampe ke rumahmu. Pesen yuk!"
+
+
+[chain.makaroni-ngehe]
+image="https://growth-public.grab.com/sandbox/imagegallery/XZBXtatxnZdbxVjElnwmlQDWBDsuWxSk.jpg"
+chainName="Makaroni Ngehe"
+numbers='["MakaroniNgehe"]'
+countries='["ID"]'
+
+[chain.makaroni-ngehe.locales.en]
+heading="\"\""
+body="Remember those spicy macaroni you used to eat quietly in class back then? Now Makaroni Ngehe (MAHE) is ready to take you on a trip down memory lane with both dry and gravy macaroni. You can even adjust the spiciness level, from level 1 to level 5.\\n\\nMakaroni Ngehe also serves otak-otak, bihun garing, and mie krenyes. Have you tried them?\\n\\nWhat are you waiting for, then? Order from Makaroni Ngehe and GrabFood will deliver it to you."
+
+[chain.makaroni-ngehe.locales.id]
+heading="\"\""
+body="Inget cemilan makaroni pedes yang suka kamu makan sembunyi-sembunyi di kelas nggak? Sekarang ada Makaroni Ngehe (MAHE), yang siap membawamu bernostalgia dengan makaroni kering dan basah. Kamu bisa atur sendiri level kepedasan makaroni, mulai dari 1 sampai 5.\\n\\nNggak cuma itu, Makaroni Ngehe juga menjual otak-otak, bihun garing dan mie krenyes. Udah pada nyobain belum?\\n\\nKenapa tunggu lama-lama? Pesen aja, GrabFood yang anterin."
+
+
+[chain.kopi-janji-jiwa]
+image="https://growth-public.grab.com/sandbox/imagegallery/ggibkzFVWQJYMwdYhategVlZGwYsTGxE.jpg"
+chainName="Kopi Janji Jiwa"
+numbers='["KopiJanjiJiwa"]'
+countries='["ID"]'
+
+[chain.kopi-janji-jiwa.locales.en]
+heading="\"\""
+body="Oh hello there, #temansejiwa. Missing Kopi Janji Jiwa?\\n\\nKopi Janji Jiwa takes your coffee seriously. Serving only the best robusta coffee beans from Sumatera for #temansejiwa, Kopi Janji Jiwa creates Es Kopi Susu, Es Coklat, dan Es Susu Matcha. \\n\\nCoffee is life, and life is coffee. Janji Jiwa, anyone? GrabFood will deliver it to your doorstep."
+
+[chain.kopi-janji-jiwa.locales.id]
+heading="\"\""
+body="Wah, ada #temansejiwa. Kangen ya, sama Kopi Janji Jiwa?\\n\\nKopi Janji Jiwa berkomitmen menyajikan kopi dengan biji kopi robusta terbaik dari Sumatera. Untuk #temansejiwa, Kopi Janji Jiwa menyajikan Es Kopi Susu, Es Coklat dan Es Susu Matcha. \\n\\nHidup itu memang nggak lengkap tanpa kopi. Makanya, ngopi Janji Jiwa yuk. GrabFood anterin ke tempatmu ya."
+
+
+[chain.bebek-kaleyo]
+image="https://growth-public.grab.com/sandbox/imagegallery/uCogyINQpvoIwFwYNcQtlKVENhXeNcPx.jpg"
+chainName="Bebek Kaleyo"
+numbers='["BebekKaleyo"]'
+countries='["ID"]'
+
+[chain.bebek-kaleyo.locales.en]
+heading="\"\""
+body="Have you heard about Bebek Kaleyo? This restaurant specialises in bebek goreng, bebek rica, dan bebek cabai hijau and has been cooking since January 15th, 2007. \\n\\nEven though their heart is with the ducks, Bebek Kaleyo understands you who may prefer chicken. They serve an array of chicken based items, siomay, and, to stay healthy, vegetables, too.\\n\\nTake a look at their menu; all look really delicious. Why not order Bebek Kaleyo for your meal today? GrabFood will happily deliver it to you."
+
+[chain.bebek-kaleyo.locales.id]
+heading="\"\""
+body="Siapa yang nggak kenal Bebek Kaleyo? Restoran dengan menu andalan bebek goreng, bebek rica dan bebek cabai hijau ini sudah mulai menyajikan bebek sejak 15 Januari 2007.\\n\\nMeskipun spesialis bebek, Bebek Kaleyo paham betul kamu-kamu mungkin ada yang lebih suka makan ayam. Maka, mereka juga menyajikan ayam, siomay dan supaya sehat, tentunya berbagai jenis sayuran.\\n\\nLihat menunya deh. Enak-enak loh! Pesen buat makan hari ini, yuk. GrabFood yang anterin."
+
+
+[chain.ayam-geprek-juara]
+image="https://growth-public.grab.com/sandbox/imagegallery/nxwaXsEjGpsizltmuiCwuCkzRWsyTnAy.jpg"
+chainName="Ayam Geprek Juara"
+numbers='["AyamGeprekJuara","ayamgeprekjuara"]'
+countries='["ID"]'
+
+[chain.ayam-geprek-juara.locales.en]
+heading="\"\""
+body="If you're looking for the king of ayam geprek, the search ends here.\\n\\nAyam Geprek Juara has an array of ayam geprek menu items, but the favourite of regulars are Ayam Geprek Juara Sambel Korek dan Ayam Geprek Mozarella. The chili sauce is out of this world and the melted mozarella will make you want more. We'll let you in on a secret- you can have all the rice, vegetables and ice tea that you want here for free!\\n\\nCraving for it but not in the mood to go? Let GrabFood deliver it to you."
+
+[chain.ayam-geprek-juara.locales.id]
+heading="\"\""
+body="Kalau kamu nyariin juaranya ayam geprek, pencarianmu berhasil sudah. Ini dia, Ayam Geprek Juara! \\n\\nAyam Geprek Juara menyajikan beberapa varian ayam geprek yang bisa kamu pilih sesuka hati. Menu andalannya adalah Ayam Geprek Juara Sambel Korek dan Ayam Geprek Mozarella. Sambel koreknya dahsyat, dan mozarellanya lumer. Tahu nggak sih? Kamu bisa nambah nasi, es teh tawar dan lalapan sepuasnya loh di sini.\\n\\nKepingin tapi lagi mager parah? Pesen aja, GrabFood yang anterin deh."
+
+
+[chain.ayam-blenger-psp]
+image="https://growth-public.grab.com/sandbox/imagegallery/pBxUFzMmMqMszxcYirjyihFqjviOPknR.jpg"
+chainName="Ayam Blenger PSP"
+numbers='["AyamBlengerPSP"]'
+countries='["ID"]'
+
+[chain.ayam-blenger-psp.locales.en]
+heading="\"\""
+body="Ayam Blenger PSP promises the deliciousness of spicy chicken for all of you spicy chicken lovers out there. Just started on your spicy food journey? Don't worry, you can adjust the spiciness level. Try out Ayam Blenger Termoz too, it's delicious.\\n\\nWhat makes Ayam Blenger PSP different from the rest?\\n\\nTo start, you can request boneless chicken and various topping such as eggs, cheeze, corned beef, crispy chicken skin, and even petai!\\n\\nGrabFood can't wait to deliver it to you. Let's order now!\\n"
+
+[chain.ayam-blenger-psp.locales.id]
+heading="\"\""
+body="Ayam Blenger PSP menjanjikan kenikmatan ayam pedas buat pecinta ayam. Baru belajar makan pedas? Jangan khawatir, kepedasannya bisa diatur kok. Cobain juga menu andalan lainnya- Ayam Blenger Termoz.\\n\\nApa sih yang bikin Ayam Blenger PSP beda? Ayamnya kamu bisa minta yang tanpa tulang, terus kamu juga bisa tambahin topping kekinian seperti telur, keju, kornet, kulit ayam atau bahkan petai. \\n\\nGrabFood mau loh, anterin Ayam Blenger PSP ke kamu. Pesen sekarang yuk!"
+
+
+[chain.waroenk-kito]
+image="https://growth-public.grab.com/sandbox/imagegallery/goJtIthETpaSsNNIqBsPqwZjbgrqCLJg.jpg"
+chainName="Waroenk Kito"
+numbers='["WaroenkKito"]'
+countries='["ID"]'
+
+[chain.waroenk-kito.locales.en]
+heading="\"\""
+body="Waroenk Kito's mission is to combine the archipelago's special flavors and Chinese food. Where else can you get kwetiau goreng seafood, nasi goreng seafood, nasi ayam bakar madu, nasi sapo tahu, and nasi gurame potong asam pedas?\\n\\nYou can also order some beef, steak, tom yum soup, and noodles, proof of the culinary fusion of two different cultures!\\n\\np.s. You should also try their traditional cold beverages, instant freshness guaranteed!\\n\\nIt's easy to order and GrabFood will deliver it to you."
+
+[chain.waroenk-kito.locales.id]
+heading="\"\""
+body="Adalah Waroenk Kito, yang misinya mengkombinasikan cita rasa nusantara dan makanan Cina. Dimana lagi kamu bisa beli kwetiau goreng seafood, nasi goreng seafood, nasi ayam bakar madu, nasi sapo tahu dan nasi gurame potong asam pedas?\\n\\nKamu juga bisa menikmati berbagai olahan sapi, aneka steak, tom yam dan mie, pokoknya tempat dimana dua kebudayaan bersatu deh!\\n\\nPsst, cobain juga aneka es dari Waroenk Kito, seger banget!\\n\\nNggak usah takut repot, ada GrabFood kok yang anterin. Cobain yuk!"
+
+
+[chain.martabak-orient]
+image="https://growth-public.grab.com/sandbox/imagegallery/rizASeJAvpGxhULGGaQcJkVJKZmoXaSo.jpg"
+chainName="Martabak Orient"
+numbers='["MartabakOrient"]'
+countries='["ID"]'
+
+[chain.martabak-orient.locales.en]
+heading="\"\""
+body="We can't live without martabak. Martabak Orient serves both the traditional egg martabak and the modern sweet martabak. Orient's Martabak Telur is made with four fresh duck eggs. Every slice is thick, tasty, and filled with generous portion of minced meat.\\n\\nOrient's sweet martabak is also something to consider. Try their Ovomaltine or Martabak Skippy, and thank us later.\\n\\nMartabak Orient, anyone? Let GrabFood deliver it to you."
+
+[chain.martabak-orient.locales.id]
+heading="\"\""
+body="Kita 'mah anaknya nggak bisa kalau nggak makan martabak. Martabak Orient hadir dengan menyajikan martabak telur dan martabak manis. Martabak Telur ala Orient dibuat dengan menggunakan empat butir telur bebek. Tiap potongannya sangat tebal, rasanya gurih dan yang pasti penuh dengan daging.\\n\\nMartabak manisnya nggak kalah heboh, cobain deh Ovomaltine atau Martabak Skippy. Dijamin nagih!\\n\\nSore-sore memang enaknya makan martabak. Pesen Martabak Orient yuk? GrabFood yang anterin, deh."
+
+
+[chain.dbesto]
+image="https://growth-public.grab.com/sandbox/imagegallery/erFIgxSnBtZMuDXNTHrgiiiahzqySled.jpg"
+chainName="d'BestO"
+numbers='["dBestO"]'
+countries='["ID"]'
+
+[chain.dbesto.locales.en]
+heading="\"\""
+body="Who says the locals don't have their very own fast food chain? d'BestO wants you to give Fried Chicken, Burger Hore, Sayap Pedas (SADAS), and Mozzadas a try.\\n\\nThe restaurant is part of KUFC group and disappeared for 21 years from the fried chicken scene in the country. They have since made a comeback and are excited to show you their new menu.\\n\\nAren't you curious? Let's try it out, GrabFood will happily deliver it to you."
+
+[chain.dbesto.locales.id]
+heading="\"\""
+body="Siapa bilang anak bangsa nggak bisa buat makanan cepat sajinya sendiri? d'BestO siap memanjakanmu dengan Fried Chicken, Burger Hore, Sayap Pedas (SADAS) dan Mozzadas nya.\\n\\nRestoran yang berada di bawah naungan KUFC group ini sempat menghilang dari usaha ayam goreng tanah air. Setelah 21 tahun, mereka akhirnya kembali dengan terobosan resep-resep baru.\\n\\nPenasaran nggak sih? Langsung coba yuk, GrabFood yang anterin loh.\\n"
+
+
+[chain.ayam-bebek-pak-boss]
+image="https://growth-public.grab.com/sandbox/imagegallery/ZKgOXMJvUPxTMeOMjpWOhENkVIMkinGz.jpg"
+chainName="Ayam Bebek Pak Boss"
+numbers='["AyamBebekPakBoss"]'
+countries='["ID"]'
+
+[chain.ayam-bebek-pak-boss.locales.en]
+heading="\"\""
+body="Chicken or duck... chicken or duck... fine, Ayam Bebek Pak Boss it is! The restaurant serves both Ayam Pak Boss and Bebek Pak Boss. Have your meals with authentic Indonesian sambal such as sambal teri, sambal andaliman, dan sambal matah.\\n\\nToo spicy? Not to worry, Pak Boss has you covered with blended bubble boss to combat the spiciness. Try their vanilla or bubble gum blended beverages.\\n\\nOrder now and GrabFood will deliver it to you."
+
+[chain.ayam-bebek-pak-boss.locales.id]
+heading="\"\""
+body="Ayam apa bebek ya... ayam apa bebek ya... Ayam Bebek Pak Boss ajalah! Restoran ini menyajikan Ayam Pak Boss dan Bebek Pak Boss. Biasanya sih dimakan pakai sambal biar mantap! Sambalnya asli Indonesia, jadi kamu bisa cobain sambal teri, sambal andaliman dan sambal matah.\\n\\nTakut kepedesan? Tenang, minum blended bubble boss deh, pasti nggak kepedesan lagi. Rasanya juga macam-macam loh, ada vanilla, bubble gum dan lain sebagainya.\\n\\nPesen yuk, GrabFood yang anterin."
+
+
+[chain.burger-king]
+image="https://growth-public.grab.com/sandbox/imagegallery/qfLjumMdQyBpWXauuzTdnKtKgqfVJyVM.jpg"
+chainName="Burger King"
+numbers='["BurgerKing"]'
+countries='["ID"]'
+
+[chain.burger-king.locales.en]
+heading="\"\""
+body="We can't argue that Burger King is the king of Burgers. BK's lineup including Whooper, Mozarella King Rasher, Swiss Mushroom, and many more. This is a secret, but Burger King said we can tell you- all of Burger King's patties are flame-grilled, which is why it's so delicious.\\n\\nFor vegetarian folks, Burger King is excited to launch its Impossible Whopper, a vegetarian burger patty from Impossible Foods.\\n\\nYou know you want it, order now and GrabFood will deliver it to you."
+
+[chain.burger-king.locales.id]
+heading="\"\""
+body="Burger King memang rajanya burger. Restoran ini punya Whooper, Mozarella King Rasher, Mushroom Swiss dan sebagainya. Ini rahasia sih, tapi kata Burger King boleh dikasih tahu ke kamu. Dagingnya dipanggang dengan api, makanya rasanya super enak.\\n\\nBuat yang vegetarian, BK katanya mau membuat Impossible Whopper, burger khusus vegetarian yang \"daging\"nya dibuat dari bahan-bahan nabati dari Impossible Foods. \\n\\nKalau udah kepingin jangan tunda lagi. Kebawa mimpi loh. Pesen yuk, GrabFood yang anterin."
+
+
+[chain.kopi-kenangan]
+image="https://growth-public.grab.com/sandbox/imagegallery/ggibkzFVWQJYMwdYhategVlZGwYsTGxE.jpg"
+chainName="Kopi Kenangan"
+numbers='["KopiKenangan"]'
+countries='["ID"]'
+
+[chain.kopi-kenangan.locales.en]
+heading="\"\""
+body="Sleepy day? Coffee time it is! Kopi Kenangan is ready to wake you up with Kopi Kenangan Mantan, Kopi Mantan Menikah, Kopi Kenangan Masa Lalu, Kopi Andi Lau, and Kopi Lupakan Dia.\\n\\nThe coffee is fresh and will boost your energy through the day. Did you know? In 2018, Alpha JWC Ventures funded Kopi Kenangan startup with 8 million US$! We're curious to see what's coming next on the menu.\\n\\nWell for now, order your coffee and let GrabFood deliver it to you."
+
+[chain.kopi-kenangan.locales.id]
+heading="\"\""
+body="Ngantuk ya? Ngopi dulu yuk. Kopi Kenangan punya Kopi Kenangan Mantan, Kopi Mantan Menikah, Kopi Kenangan Masa Lalu, Kopi Andi Lau dan Kopi Lupakan Dia.\\n\\nKopinya enak dan yang pasti akan membuka matamu sepanjang hari. Tahun 2018 lalu, Alpha JWC Ventures memberikan pendanaan tahap awal sebesar US$8 juta buat Kopi Kenangan. Jadi penasaran nih, berikutnya kopi apa ya yang akan dirilis?\\n\\nDaripada penasaran terus, mendingan ngopi dulu yuk. GrabFood anterin deh kopinya ke tempatmu."
+
+
+[chain.eatlah]
+image="https://growth-public.grab.com/sandbox/imagegallery/KVPXtxyteJnaUZWhZqLBuPPDyftctKuB.jpg"
+chainName="Eatlah"
+numbers='["eatlah","Eatlah"]'
+countries='["ID"]'
+
+[chain.eatlah.locales.en]
+heading="\"\""
+body="What's life without salted egg? Now you don't have to cook your own salted egg, just order it from Eatlah. Eatlah is famous for its Chicken Salted Egg- fried chicken fillet battered in flour and served with salted egg sauce. The taste will rock your world.\\n\\nThe name Eatlah comes from Singlish, a popular slang in Singapore. Singlish vocabularies often adds \"lah\" at the end of a word. Eatlah means \"let's eat!\"\\n\\nLet's have some Chicken Salted Egg! Who's delivering it? GrabFood lah."
+
+[chain.eatlah.locales.id]
+heading="\"\""
+body="Dunia ini tak lengkap tanpa telur asin. Nggak usah repot bikin telur asin sendiri, tinggal pesan aja di Eatlah. Restoran ini terkenal dengan Chicken Salted Egg, alias ayam goreng tepung yang disiram saus telur asin. Rasanya itu loh, menggetarkan duniamu. \\n\\nNama Eatlah datang dari slang yang sering digunakan di Singapura alias Singlish. Perbendaharaan kata Singlish sering diakhiri kata \"lah\". Eatlah sendiri artinya \"makanlah\".\\n\\nCobain Chicken Salted Eggnya yuk. Yang nganterin siapa? GrabFood lah."
+
+
+[chain.martabak-pizza-orins]
+image="https://growth-public.grab.com/sandbox/imagegallery/RNBSQHjvKyOGGxduOpuLubhyBAErcCDm.jpg"
+chainName="Martabak Pizza Orins"
+numbers='["martabakpizzaorins","MartabakPizzaOrins"]'
+countries='["ID"]'
+
+[chain.martabak-pizza-orins.locales.en]
+heading="\"\""
+body="Tired of the regular martabak? Try Martabak Pizza Orins. They serve their sweet martabak like a pizza with generous toppings on top. Don't believe us? Try their Ovomaltine, Cream Cheese Oreo, Kitkat Green Tea, or Coklat Kacang Wijen and see for yourself what we're talking about.\\n\\nWhen not feeling too sweet, martabak telur will save your day. Have you tried martabak telur pizza or telur Samyang?\\n\\nGrabFood can deliver it to you. You just sit tight, perhaps share your martabak, and enjoy!"
+
+[chain.martabak-pizza-orins.locales.id]
+heading="\"\""
+body="Bosen makan martabak yang itu-itu aja?\\n\\nGimana kalau cobain Martabak Pizza Orins? Mereka terkenal banget dengan martabak manisnya yang disajikan seperti pizza. Toppingnya melimpah ruah. Nggak percaya? Coba deh pesen Ovomaltine, Cream Cheese Oreo, Kitkat Green Tea, atau Coklat Kacang Wijen.\\n\\nKemanisan? Ya udah, pesen martabak telur kalau gitu. Gimana kalau cobain martabak telur pizza atau telur Samyang?\\n\\nPesen aja, GrabFood yang anterin. Kamu tinggak duduk, berbagi makananmu dan menikmatinya."
+
+
+[chain.kedai-kopi-kulo]
+image="https://growth-public.grab.com/sandbox/imagegallery/XiJBzOowRXUgKXuWwizMACFtHmcMpnye.jpg"
+chainName="Kedai Kopi Kulo"
+numbers='["KedaiKopiKulo"]'
+countries='["ID"]'
+
+[chain.kedai-kopi-kulo.locales.en]
+heading="\"\""
+body="For busy coffee lovers who need coffee boost, you can try Kopi Kulo. Famous for Avocatto (avocado juice, espresso shot and ice cream, yum.), Kopi Kulo is a good choice to satisfy your cravings.\\n\\nNon-coffee lovers can opt for Cookies N Cream, another favorite of the regulars. Once you tasted Avocatto, expand your adventure and try out Kopi Kulo's Kopi Keju dan Coffeenade. \\n\\nSuper busy this morning and no time to queue for coffee? Relax, GrabFood will deliver it to you."
+
+[chain.kedai-kopi-kulo.locales.id]
+heading="\"\""
+body="Buat kamu-kamu yang sibuk dan butuh asupan kopi untuk memulai harimu, pesen kopi di Kopi Kulo yuk. Cobain Avocatto, kombinasi jus alpukat, espresso dan es krim.\\n\\nKopi Kulo memang punya kopi-kopi yang nggak biasa, supaya harimu juga jadi luar biasa. Kalau udah coba Avocatto, cobain juga Kopi Keju dan Coffeenade. Yang nggak minum kopi bisa cobain Cookies N Cream.\\n\\nSibuk banget dan nggak keburu meeting pagi? Tenang, GrabFood yang anterin, kok."
+
+
+[chain.yoshinoya]
+image="https://growth-public.grab.com/sandbox/imagegallery/CKPSpcLVsdorsutjpfpqpYsQhlHnAnMM.jpg"
+chainName="Yoshinoya"
+numbers='["Yoshinoya"]'
+countries='["ID"]'
+
+[chain.yoshinoya.locales.en]
+heading="\"\""
+body="Gyudon a.k.a beef bowl is one of their Japanese specialties. But, before you rush to Japan to have beef bowl, why not try Yoshinoya first? It's the biggest beef bowl chain from Japan and famous for savoury beef slices served over a bowl of warm rice. \\n\\nBack in 2003-2006, Yoshinoya had to improvise with their menu as beef import was banned, but now it's not an issue anymore!\\n\\nOrder now and GrabFood will deliver it to you."
+
+[chain.yoshinoya.locales.id]
+heading="\"\""
+body="Gyudon alias beef bowl memang enaknya makan yang asli dari Jepang. Sebelum kamu keburu pesen tiket ke Jepang, gimana kalau cobain dulu Yoshinoya? Mereka restoran gyudon terbesar di Jepang, terkenal banget dengan Beef Bowl- irisan daging sapi gurih yang disajikan dalam mangkuk, di atas nasi hangat.\\n\\nTahun 2003-2006 lalu memang mereka pernah menyajikan menu tanpa daging sapi, karena waktu itu ada larangan impor. Tapi sekarang sudah nggak jadi masalah.\\n\\nMakan Yoshinoya yuk, GrabFood yang anterin."
+
+
+[chain.pisang-goreng-madu-bu-nanik]
+image="https://growth-public.grab.com/sandbox/imagegallery/YuCaTcrgTvVpUdblDfThqyycOugVxdvX.jpg"
+chainName="Pisang Goreng Madu Bu Nanik"
+numbers='["PisangGorengMaduBuNanik"]'
+countries='["ID"]'
+
+[chain.pisang-goreng-madu-bu-nanik.locales.en]
+heading="\"\""
+body="Once upon a time, there was a restaurant that sells bananas fried with honey and almost everyone is addicted to it. They're willing to stand in a long queue for this tasty treat. That restaurant is Pisang Goreng Madu Bu Nanik, now available on GrabFood.\\n\\nNot only do they have fried bananas, they also have honey-fried pineapples, jackfruits, sweet potatoes, cempedak, and sukun.\\n\\nIt's a favorite treat for meetings and gatherings.\\n\\nWhatever the occasion is, GrabFood is ready to deliver it to you."
+
+[chain.pisang-goreng-madu-bu-nanik.locales.id]
+heading="\"\""
+body="Alkisah ada restoran yang menjual pisang yang digoreng dengan madu. Warna pisangnya nanti kelihatan agak gelap, tapi nyaris semua orang ketagihan makan pisang goreng ini, sampai rela antri panjang. Restoran itu adalah Pisang Goreng Madu Bu Nanik.\\n\\nSelain pisang goreng, ada juga nanas, ubi, nangka, cempedak dan sukun yang semuanya digoreng madu.\\n\\nEnaknya sih cemilin ini sore-sore, waktu lagi rapat di kantor atau kalau ada arisan di rumah.\\n\\nApapun acaranya, kamu santai aja. GrabFood yang anterin."
+
+
+[chain.rm-sederhana]
+image="https://growth-public.grab.com/sandbox/imagegallery/rHRKVNfQODQFvMmoIYCnaldYjizyCtlg.jpg"
+chainName="RM Sederhana"
+numbers='["RMSederhana"]'
+countries='["ID"]'
+
+[chain.rm-sederhana.locales.en]
+heading="\"\""
+body="Guess, which restaurant is the most visited one by Indonesians?\\n\\nRoy Morgan's research in 2018 revealed that RM Sederhana is the answer!\\n\\nRM Sederhana serves Padang's delicacies and is very famous for its combo of Rendang, Sayur Nangka Kapau, Daun Singkong Rebus, dan Sambal Ijo.\\n\\nWhat a yummy combo! Order now and GrabFood will deliver it to you."
+
+[chain.rm-sederhana.locales.id]
+heading="\"\""
+body="Tebak, restoran apa yang paling banyak dikunjungi sama orang Indonesia?\\n\\nMenurut penelitian Roy Morgan di tahun 2018, jawabannya ternyata adalah Rumah Makan Sederhana!\\n\\nRestoran ini menjual masakan khas Padang dan sangat terkenal dengan paket yang berisikan Rendang, Sayur Nangka Kapau, Daun Singkong Rebus dan Sambal Ijo.\\n\\nNggak perlu galau, langsung pesen yuk! GrabFood yang anterin.\\n"
+
+
+[chain.bebek-goreng-h-slamet]
+image="https://growth-public.grab.com/sandbox/imagegallery/ZGfweeklTTRdGSnoQBgJkZPYNoXcaejC.jpg"
+chainName="Bebek Goreng H. Slamet"
+numbers='["BebekGorengHSlamet"]'
+countries='["ID"]'
+
+[chain.bebek-goreng-h-slamet.locales.en]
+heading="\"\""
+body="Bebek Goreng H. Slamet serves duck and other traditional Indonesian food.\\n\\nThe duck is cooked with care and served with sambal korek, one of Indonesian many chili sauces. Bebek Goreng H. Slamet's duck is crispy, with thick meat coated in rich flavors.\\n\\nTry out their Bebek Goreng, delivered to you by GrabFood."
+
+[chain.bebek-goreng-h-slamet.locales.id]
+heading="\"\""
+body="Bebek Goreng H. Slamet adalah restoran bebek yang juga menjual berbagai makanan khas Indonesia. \\n\\nUntuk bebeknya sendiri, restoran ini menyajikan bebek goreng dengan daging yang tebal dan cita rasa yang lezat dengan sambal korek.\\n\\n\\n\\nCobain Bebek goreng Andalan dari Bebek Goreng H. Slamet hari ini yuk. GrabFood yang anterin."
+
+
+[chain.the-koi]
+image="https://growth-public.grab.com/sandbox/imagegallery/mwUPzIMhfBtuFpxZfjbZoUixOxImMWRm.jpg"
+chainName="The KOI"
+numbers='["TheKOI"]'
+countries='["ID"]'
+
+[chain.the-koi.locales.en]
+heading="\"\""
+body="KOI Thé is a bubble tea chain from Taiwan. It's famous for  Matcha Macchiato, Matcha Latte, and Ovaltine Macchiato. They have their own way to enjoy macchiato which they eagerly teach customers through the macchiato's packaging (you're not supposed to shake it).\\n\\nKOI Thé has various toppings to complement your bubble tea. Choose from the golden bubble made of tapioca, cincau, konjac jelly, and many more.\\n\\nThinking of bubble tea and macchiato? Order now and let GrabFood deliver it to you."
+
+[chain.the-koi.locales.id]
+heading="\"\""
+body="KOI Thé adalah salah satu penjaja bubble tea asal Taiwan. Kedai bubble tea ini terkenal dengan Matcha Macchiato & Matcha Latte dan Ovaltine Macchiato. Mereka juga dengan gencar mengajarkan bagaimana cara yang benar untuk meminum Macchiato (tidak boleh diaduk).\\n\\nKOI Thé punya berbagai topping untuk menambah kelezatan bubble tea untukmu seperti bubble emas yang terbuat dari tapioka, cincau, jeli konjac dan lainnya.\\n\\nKepikiran bubble tea dan macchiato? Pesen yuk, GrabFood yang anterin."
+
+
+[chain.holland-bakery]
+image="https://growth-public.grab.com/sandbox/imagegallery/eVNNLYFIPvDhSzSoRtljVETlmahAxbaz.jpg"
+chainName="Holland Bakery"
+numbers='["HollandBakery"]'
+countries='["ID"]'
+
+[chain.holland-bakery.locales.en]
+heading="\"\""
+body="Holland Bakery has been around for a while in Indonesia. It's famous for its soft and tasty bread. One of the most famous bread items from Holland Bakery is Chocolate John, a long bread with cheese and choco sprinkles on top.\\n\\nNot only do they serve fresh-from-the-oven bread, Holland Bakery also has cookies, cakes, and pudding.\\n\\nWe'll take you back to the oldie but goodie Chocolate John from Holland Bakery. Order now and let GrabFood deliver it to you."
+
+[chain.holland-bakery.locales.id]
+heading="\"\""
+body="Holland Bakery adalah salah satu toko roti yang sudah lama ada di Indonesia. Rotinya terkenal lembut dan enak. Salah satu roti favorit dari Holland Bakery adalah Chocolate John, roti panjang dengan topping keju dan meses. \\n\\nHolland Bakery tidak hanya menyediakan roti-roti hangat dan yang baru dipanggang, tapi juga aneka kue kering, kue basah dan bahkan pudding.\\n\\nNostalgia dengan roti Chocolate John ala Holland Bakery yuk. GrabFood yang anterin."
+
+
+[chain.chibchib-taiwan-snacks]
+image="https://growth-public.grab.com/sandbox/imagegallery/NhXgkfgXWnUjzEtZvaTShmXBwopqzoas.jpg"
+chainName="Chib-Chib Taiwan Snacks"
+numbers='["ChibChibTaiwanSnacks"]'
+countries='["ID"]'
+
+[chain.chibchib-taiwan-snacks.locales.en]
+heading="\"\""
+body="As you can probably guess from its name, Chib-Chib Taiwan Snacks comes from Taiwan. Their regular customers love Crispy Chicken, available in 2 sizes- M and XL. Try out their French Fries and Crispy Enoki Mushroom too, they're delicious!\\n\\nUp your game by adding additional flavors such as special cheesy pizza, grilled beef, BBQ, sea weed, and of course, the yummy salted egg.\\n\\nSnack time is our favorite time of the day too! Le'ts order Chib-Chib Taiwan, and GrabFood will deliver it to you."
+
+[chain.chibchib-taiwan-snacks.locales.id]
+heading="\"\""
+body="Seperti namanya, Chib-Chib Taiwan Snacks berasal dari Taiwan. Menu yang paling sering dipesan antara lain Crispy Chicken dengan varian ukuran M dan XL. Ada juga French Fries dan Crispy Enoki Mushroom.\\n\\nSupaya tambah enak, jangan lupa tambahkan bumbu original, pizza keju spesial atau sapi panggang. Kamu juga bisa cobain varian rasa spesialnya seperti BBQ, rumput laut, dan mmmm... salted egg.\\n\\nMemang waktunya nyemil enak, nih. Pesen Chib-Chib Taiwan yuk, GrabFood yang anterin."
+
+
+[chain.blenger-burger]
+image="https://growth-public.grab.com/sandbox/imagegallery/FUHSnsJsXgMBOHWQUMWZivmKtoIQHWAl.jpg"
+chainName="Blenger Burger"
+numbers='["BlengerBurger"]'
+countries='["ID"]'
+
+[chain.blenger-burger.locales.en]
+heading="\"\""
+body="Blenger Burger was founded on 2004 by Erik Kadarman Subarna. The name \"blenger\" came from the unusually large sized burgers. The menu is simple yet filling.\\n\\nTry out their favorite dish- cheese burger and beef burger.\\n\\nIf you're hungry but want something simple and easy, get some Blenger Burger.\\n\\nHungry? GrabFood will deliver Blenger Burger to you."
+
+[chain.blenger-burger.locales.id]
+heading="\"\""
+body="Bleger Burger didirikan pada tahun 2004 oleh Erik Kadarman Subarna. Disebut \"blenger\" karena ukurannya yang besar. Restoran ini punya menu yang sederhana, namun enak dan mengenyangkan. Menu favoritnya adalah cheese burger dan beef burger.\\n\\nKalau kamu lagi super laper tapi mau makan yang cepat dan nggak ribet, Blenger Burgerlah jawabannya.\\n\\nPesen yuk, GrabFood yang anterin."
+
+
+[chain.ayam-bakar-kambal]
+image="https://growth-public.grab.com/sandbox/imagegallery/IsefCtzordRHlidBcpEPoEYIWjBvFZla.jpg"
+chainName="Ayam Bakar Kambal"
+numbers='["AyamBakarKambal"]'
+countries='["ID"]'
+
+[chain.ayam-bakar-kambal.locales.en]
+heading="\"\""
+body="Ayam Bakar Kembal is proud to serve traditional Indonesian flavors. Translated into their Nasi Ayam Bakar Komplit, Bebek, Ikan Gurame, Ikan Bawal, Mie Goreng, and Nasi Goreng, Ayam Bakar Kembal strives to introduce the richness of the country's home cooking.\\n\\nHave a try and GrabFood will deliver it to you."
+
+[chain.ayam-bakar-kambal.locales.id]
+heading="\"\""
+body="Ayam Bakar Kembal bangga akan cita rasa Indonesia. Karenanya, mereka berusaha menerjemahkannya dalam menu-menu seperti Nasi Ayam Bakar Komplit, Bebek, Ikan Gurame, Ikan Bawal, Mie Goreng, Nasi Goreng dan sebagainya.\\n\\nSelain Nasi Ayam Bakar Komplit, menu Ayam Bakar Andalannya pun patut dicoba.\\n\\nCobain yuk, GrabFood yang anterin."
+
+
+[chain.nasi-campur-yung-yung-99]
+image="https://growth-public.grab.com/sandbox/imagegallery/EHLlOoMqHzmnOAFbupJEcUsdYffrQBeQ.jpg"
+chainName="Nasi Campur Yung Yung 99"
+numbers='["NasiCampurYungYung99","nasicampuryungyung99"]'
+countries='["ID"]'
+
+[chain.nasi-campur-yung-yung-99.locales.en]
+heading="\"\""
+body="Nasi Campur Yung Yung 99 started out as a modest stall in Krendang, Jakarta. Well known for its authentic Nasi Campur and Nasi Hainam, it soon gained popularity because of its crispy, soft and fragrant pork slices.\\n\\nNo need to search high and low anymore for a plate of traditional nasi campur. Order from Nasi Campur Yung Yung 99 now and let GrabFood deliver it to you."
+
+[chain.nasi-campur-yung-yung-99.locales.id]
+heading="\"\""
+body="Nasi Campur Yung Yung 99 bermula dari Krendang, Jakarta. Terkenal dengan Nasi Campur dan Nasi Hainam, Nasi Campur Yung Yung 99 menyajikan nasi campur tradisional. Restoran ini juga terkenal akan hidangan babinya yang garing, empuk dan harum.\\n\\nKalau lagi kepingin makan nasi campur tradisional, kamu nggak usah repot cari lagi. Pesen Nasi Campur Yung Yung 99 aja, GrabFood yang anterin."
+
+
+[chain.kfc-box]
+image="https://growth-public.grab.com/sandbox/imagegallery/FkHTKmcUqsURwLZbpUeblzuHNjKDeVTG.jpg"
+chainName="KFC Box"
+numbers='["KFCBox"]'
+countries='["ID"]'
+
+[chain.kfc-box.locales.en]
+heading="\"\""
+body="KFC Box is a new outlet format from KFC specializing in serving KFC dishes in public places such as stations, airports, rest areas, to name a few.\\n\\nThere is a slight difference in KFC Box menu compared to KFC- there are Original Chicken Balls and BBQ Chicken Balls, while for Drinks there are Blue Twist Float and Fantasia Float.\\n\\nGet your Fried Chicken from KFC Box for your lunch, right here delivered to you by GrabFood. Enjoy!"
+
+[chain.kfc-box.locales.id]
+heading="\"\""
+body="KFC Box adalah solusi dari KFC untuk menyediakan kelezatan KFC dan 11 rempah-rempahnya di tempat publik seperti stasiun, bandara, area istirahat di jalan tol dan sebagainya.\\n\\nMenunya sedikit berbeda, karena dirancang untuk kepraktisan dan kecepatannya. Menu yang tersedia misalnya Chicken Balls Original dan Chicken Balls BBQ. Untuk minuman ada Blue Twist Float dan Fantasia Float.\\n\\nKarena ada GrabFood, sekarang kamu nggak usah ke stasiun atau bandara. Pesen aja, GrabFood yang anterin."
+
+
+[chain.amanda-brownies]
+image="https://growth-public.grab.com/sandbox/imagegallery/pgxJXlkZpbEkyXjIuZtlajeMgnadoFbc.jpg"
+chainName="Amanda Brownies"
+numbers='["AmandaBrownies"]'
+countries='["ID"]'
+
+[chain.amanda-brownies.locales.en]
+heading="\"\""
+body="Amanda Brownies is a store that sells brownies from Bandung, Indonesia.\\n\\nThey are known for its brownies which have several variants such as Original and Sarikaya Pandan.\\n\\nAmanda Brownies launched a product in 2019 namely Kue kering consisted of nastar, nastar green tea, coklat almond, palm cheese, putri salju, kaastengels, sagu keju, and crunchy coklat.\\n\\nGet your brownies from Amanda Brownies, right here delivered to you by GrabFood. Enjoy!"
+
+[chain.amanda-brownies.locales.id]
+heading="\"\""
+body="Dulu kalau ke Bandung, nggak afdol kalo nggak beli Amanda Brownies buat oleh-oleh. Sekarang, ada GrabFood yang anterin.\\n\\nAmanda Brownies terkenal dengan rasa original dan Srikaya Pandan. Mereka juga memiliki berbagai varian kue kering yang lezat, terutama seri nastar yang terdiri atas 8 varian rasa. Amanda Brownies juga menyediakan kue coklat almond, palm cheese, putri salju, kaastengels, sagu keju dan crunchy coklat.\\n\\nSekarang, Amanda Brownies ada di GrabFood. Tinggal pesen, deh."
+
+
+[chain.dcrepes]
+image="https://growth-public.grab.com/sandbox/imagegallery/RYYWgjgQRGXrrswEmxqqJkMLcVmbIkzk.jpg"
+chainName="D'Crepes"
+numbers='["DCrepes"]'
+countries='["ID"]'
+
+[chain.dcrepes.locales.en]
+heading="\"\""
+body="D'Crepes is a food chain that produces crepe from Indonesia. \\n\\nThey are known for their Beef and Smoked Cheese, Chili Dogs, Beef, Choco Cheese, Choco Banana Cheese, and Choco Beans.\\n\\n\\nD'Crepes innovates with a variety of menus.For chocolate lovers, savor Nutella, Cookies and Cream, Toblerone Cheese, and Silverqueen crepe.\\n\\n\\nWhat are you waiting for? Order now and let GrabFood deliver it to you."
+
+[chain.dcrepes.locales.id]
+heading="\"\""
+body="D'Crepes menyajikan crepe lezat dan wangi yang terkenal dimana-mana. Dimana ada D'Crepes, kamu pasti bisa mencium wangi adonannya. Restoran ini terkenal dengan Smoked Beef and Cheese, Chili Dog, Beef Burger, Choco Cheese, Banana Choco Cheese dan Choco Peanut.\\n\\nD'Crepes memahami perasaan pecinta cokelat di luar sana, karenanya mereka berinovasi dengan beragam menu seperti Nutella Cheese, Cookies and Cream, Toblerone Cheese dan Silverqueen.\\n\\nPesen D'Crepes yuk, GrabFood yang anterin."
+
+
+[chain.ayam-goreng-karawaci]
+image="https://growth-public.grab.com/sandbox/imagegallery/PCNQfwAFWAxMWmRAzWuiyfJFaSnQsLaw.jpg"
+chainName="Ayam Goreng Karawaci"
+numbers='["AyamGorengKarawaci","ayamgorengkarawaci"]'
+countries='["ID"]'
+
+[chain.ayam-goreng-karawaci.locales.en]
+heading="\"\""
+body="Ayam Goreng Karawaci sells a variety of Indonesian food. Founded in 2016 by Istanto in Tangerang, Indonesia, it expanded rapidly within 2 years and now has 60 branches.\\n\\n\\nAyam Goreng Kawawaci is known for its delicious Ayam Kampung Goreng Kremes.\\n\\n\\nIn addition, they also serve delicious Bebek, Bandeng Presto, and Ayam Panggang. You can also enjoy their combo deals.\\n\\n\\nOrder your meal from Ayam Goreng Karawaci and GrabFood will happiliy deliver it to you."
+
+[chain.ayam-goreng-karawaci.locales.id]
+heading="\"\""
+body="Ayam Goreng Karawaci didirikan Istanto tahun 2016 di Tanggerang, Indonesia. Dalam 2 tahun saja outletnya sudah mempunyai 60 cabang, loh. \\n\\nKenapa bisa begitu? Karena makanannya yang enak-enak! Menu andalan Ayam Goreng Karawaci adalah Ayam Kampung Goreng Kremes.\\n\\nSelain itu ada juga menu yang nggak kalah enak seperti Bebek, Bandeng Presto, Ayam Panggang, dan buat yang suka harga murah, ada menu paketan.\\n\\nCobain ayam goreng kremesnya yuk, GrabFood yang anterin deh."
+
+
+[chain.kebab-monster]
+image="https://growth-public.grab.com/sandbox/imagegallery/RGhAxPqcQdreSeXHEizePzHouvmKKNkC.jpg"
+chainName="Kebab Monster"
+numbers='["kebabmonster"]'
+countries='["ID"]'
+
+[chain.kebab-monster.locales.en]
+heading="\"\""
+body="Kebab Monster is a restaurant that sells kebabs from Indonesia. Kebab Monster was founded in 2015 by Fan Andrew and Iccha Indriyani.\\n\\nThis restaurant is known for its kebabs which have bigger sizes than usual, namely Monster (M) and Super Monster (SM).\\n\\nThe size of these 2 variants Kebab Monster menu has a package length for Monster (M) at 28 cm and for Super Monster (SM) at 40 cm.\\n\\nGet your lunch from Kebab Monster, right here delivered to you by GrabFood. Enjoy!"
+
+[chain.kebab-monster.locales.id]
+heading="\"\""
+body="Kebab Monster menyajikan kebab lezat yang tanpa ragu-ragu diisi dengan topping yang melimpah ruah. \\n\\nMenunya memang hanya kebab, tapi restoran ini serius dengan cita rasa kebab mereka loh! Kebab terdiri atas 2 pilihan ukuran. Kamu bisa pilih ukuran yang M (28 cm) atau kalau laper banget bisa pilih SM alias Super Monster (40 cm). Habis itu, kamu juga bisa tambah topping seperti telur, sosis dan keju. \\n\\nTunggu apa lagi? Pesen yuk, GrabFood yang anterin."
+
+
+[chain.fish-streat]
+image="https://growth-public.grab.com/sandbox/imagegallery/ZXQzpujneTjlrpjWLgxmgvqivnVeFMDC.jpg"
+chainName="Fish Streat"
+numbers='["FishStreat"]'
+countries='["ID"]'
+
+[chain.fish-streat.locales.en]
+heading="\"\""
+body="For Fish Streat, seafood doesn't have to be expensive to be high quality. Fish Streat is super famous for  Fish n’ Chips and its Seafood Platter. Both dishes fulfill Fish Streat's promise- to serve good food at an affordable price.\\n\\nThe Fish Streat team also combined the goodness of pasta and seafood, and even added delicious cheese sauce or mayonnaise on top of the dish. You can also try out their Paella or their new dish- Japafish Curry.\\n\\nOrder now and let GrabFood deliver it to you."
+
+[chain.fish-streat.locales.id]
+heading="\"\""
+body="Kata Fish Streat, makan seafood itu nggak harus mahal, tapi harus enak dan berkualitas. Fish Streat sangat terkenal dengan Fish n’ Chips dan Seafood Platter nya yang memenuhi janji mereka- enak dan harganya terjangkau.\\n\\nTim Fish Streat juga berinovasi dengan mengkombinasikan pasta dan seafood, lalu menambahkan saus keju atau mayonnaise yang lezat. Kamu juga bisa cobain Paella, atau yang baru nih, Japafish Curry.\\n\\nNggak usah ragu lagi, pesen sekarang yuk, biar GrabFood yang anterin."
+
+
+[chain.starbucks]
+image="https://growth-public.grab.com/sandbox/imagegallery/agyHdxfdYsjIxoxaCMbecNPudXorNTaB.jpg"
+chainName="Starbucks"
+numbers='["starbucks","Starbucks"]'
+countries='["ID"]'
+
+[chain.starbucks.locales.en]
+heading="\"\""
+body="We all love Starbucks. The American coffee shop serves freshly brewed coffee, frappuccino, and of course other non-coffee drinks so that everyone always has something to drink.\\n\\nStarbucks has its own seasonal drinks and make sure you don't miss it, as each seasons has different drinks! Order from GrabFood and forget the queue. Don't forget to pick your favorite size- tall, venti, or grande."
+
+[chain.starbucks.locales.id]
+heading="\"\""
+body="Starbucks memang kesayangan kita semua. Perusahaan kopi asal Amerika Serikat ini menyajikan berbagai kopi fresh brew, frappuccino dan juga minuman nonkopi lainnya.\\n\\nStarbucks selalu punya minuman musiman dan minuman lokal di tiap negara loh! Jangan ketinggalan minuman untuk musim ini, pesen pakai GrabFood aja, kamu tinggal nunggu.\\n\\nJangan lupa pilih ukuran yang kamu mau ya, grande, venti atau tall."
+
+
+[chain.aw]
+image="https://growth-public.grab.com/sandbox/imagegallery/jUHngzXnAvGfoSUFDUqUQPzSesUhlzUk.jpg"
+chainName="A&W"
+numbers='["AW"]'
+countries='["ID"]'
+
+[chain.aw.locales.en]
+heading="\"\""
+body="A&W is a fast food chain well known for its life changing root beer. Over time A&W's root beer evolved into the root beer float, where it combines the fresh sensation of root beer and the sweetness of ice cream.\\n\\nFor food, try out their fried chicken and warm chicken soup. When you don't fancy fried chicken, opt for their thick freshly baked waffle, served with a generous portion of ice cream. You choose the flavor, order it and GrabFood will deliver it to you.\\n\\nEnjoy your meal!"
+
+[chain.aw.locales.id]
+heading="\"\""
+body="A&W adalah restoran makanan cepat saji yang terkenal dengan root beernya. Root Beer ala A&W juga berevolusi dan bisa dinikmati dengan es krim. Root Beer ini dikenal sebagai Root Beer Float.\\n\\nUntuk makanannya, cobain ayam goreng, kentang goreng dan sup ayam A&W. Semuanya enak banget! Kalau lagi nggak kepingin makanan cepat saji, gimana kalau cobain Waffle A&W? Waffle tebal dan hangat ini disajikan dengan es krim pilihanmu - cokelat atau strawberry.\\n\\nPesen yuk, biar GrabFood yang anterin."
+
+
+[chain.mcdonalds-delivery]
+image="https://growth-public.grab.com/sandbox/imagegallery/OuxXlkPYshONtlabORiffLmOgDNZyFxG.jpg"
+chainName="McDonald's"
+numbers='["McDonalds"]'
+countries='["ID"]'
+
+[chain.mcdonalds-delivery.locales.id-en]
+heading="\"\""
+body="Let's admit it, fast food is one of the best comfort foods out there. Order it for dine-in or delivery, a plate of crispy fried chicken with warm rice is the best dish in town! No wonder, a line at a fast-food outlet such as McDonald's is rarely short.\\n\\nMcDonald's opened its first store in the USA in 1955, then arrived in Indonesia in 1991 at Sarinah, Thamrin, Jakarta; claiming its spot as Indonesia's first fast-food restaurant. With over 29 years in Indonesia, McDonald's is a fast-food brand that is close to many Indonesian's hearts. Who doesn't feel warm inside when ordering a Happy Meal?\\n\\nWhile the Big Mac is one of the most popular menu items in the brand's home-country, in Indonesia, McDonald's adapts its strategy to fit the Indonesian palate%3A where the firm favourite is PaNas%3A crispy chicken with rice. Still popular decades later; it's the one that melts every Indonesians heart. Unique seasonal items such as the spicy chicken with Thai sweet chili sauce.\\n\\nAs a commitment to sustainability throughout its value chain, McDonald's only sources high-quality beef from Australia, locally-sourced chicken, and an RSPO (Roundtable on Sustainable Palm Oil) certified palm oil. On top of that, all of the ingredients used throughout the cooking process is certified HALAL."
+page_title="McDonald's Food Delivery Menu &amp; Promo | GrabFood ID"
+meta_description="Get your food delivered to your doorstep with 1 at GrabFood. Find 1 promos and popular dishes and menu - get it delivered hot and fresh."
+
+[chain.mcdonalds-delivery.locales.id-id]
+heading="\"\""
+body="Makanan cepat saji memang merupakan comfort food terasyik. Mau pesan untuk makan di tempat maupun delivery, sepiring ayam goreng renyah dengan nasi hangat selalu menjadi sebuah hidangan nikmat. Nggak heran kalau antrian di restoran cepat saji seperti McDonald's jarang sepi.\\n\\nMcDonald's membuka outlet pertamanya di Amerika Serikat pada tahun 1955 dan tiba di Indonesia pada tahun 1991 di Sarinah Thamrin, Jakarta. Sepanjang tiga dekade melayani Indonesia, McDonald's dikenal sebagai merek fast food yang bernuansa kekeluargaan. Coba, siapa yang nggak lumer hatinya melihat koleksi figurin lucu waktu memesan Happy Meal?\\n\\nMeskipun Big Mac adalah menu paling populer di negara asalnya, Indonesia punya favoritnya sendiri di McDonald's, yaitu PaNas atau paket nasi hangat dengan ayam goreng krispi. PaNas digemari banyak orang selama bertahun-tahun karena rasanya yang cocok dengan lidah lokal dan harganya yang bersahabat. Kalau mau mencoba yang lain dari yang lain, coba deh menu unik atau musimannya McDonald's Indonesia, seperti ayam Gochujang atau ayam potong saus rica-rica. Dijamin akan memberikan kamu secercah kesegaran.\\n\\nMcDonald's yang sudah bersertifikat HALAL ini hanya membeli daging sapi berkualitas tinggi dari Australia, ayam dari peternak lokal, dan minyak goreng kelapa yang bersertifikat RSPO (Roundtable on Sustainable Palm Oil). Jadi, walaupun judulnya makanan cepat saji, kamu nggak perlu khawatir dengan kualitas makanan di sini."
+page_title="McDonald's Makanan Delivery Menu &amp; Promo | GrabFood ID"
+meta_description="Yuk, pesan berbagai menu hits McDonald's di GrabFood. Tambah nikmat, ada promo yang bikin hemat!"
+
+
+[chain.kfc-delivery]
+image="https://growth-public.grab.com/sandbox/imagegallery/FkHTKmcUqsURwLZbpUeblzuHNjKDeVTG.jpg"
+chainName="KFC"
+numbers='["KFC"]'
+countries='["ID"]'
+
+[chain.kfc-delivery.locales.id-en]
+heading="\"\""
+body="Is there anyone that doesn't know that  this fried chicken is Finger Lickin' Good? Known and loved by all, Kentucky Fried Chicken (KFC) has been serving  up the unforgettable taste of its Original Recipe fried chicken for more than 70 years, across the globe. The brand takes pride in its passion to stick to its tried and tested way%3A which is not the fast way, nor the easy way. Along with the secret Original Recipe of 11 herbs and spices; the chicken is hand breaded and freshly prepared, all to ensure the great taste, time after time.\\n\\nThe “Original Recipe” or the O.R. chicken is easily the best selling menu item here although a growing number of people also like the newcomer on the menu%3A the Hot and Crispy Chicken (HCC). So, when you order for KFC chicken, don't forget to mention whether you want the O.R. or the Hot and Crispy!\\n\\nKFC also offers an array of other delicious menu items. If you're craving a burger, try the O.R. Burger, a juicy chicken burger with KFC's signature Original Recipe. When you feel the need for veggies there's Twisty%3A  a wrap chock full of vegetables and  Extra Crispy chicken. Whatever the occasion, there's something on the menu to suit!\\n\\nWant to order a delivery? Check GrabFood now and browse the Finger Lickin' Good menu!"
+page_title="KFC Food Delivery Menu &amp; Promo | GrabFood ID"
+meta_description="Get your food delivered to your doorstep with 2 at GrabFood. Find 2 promos and popular dishes and menu - get it delivered hot and fresh."
+
+[chain.kfc-delivery.locales.id-id]
+heading="\"\""
+body="Siapa yang nggak kenal ayam goreng yang Finger Lickin' Good, alias enak banget, ini?\\n\\nDicintai semua usia dan kalangan, Kentucky Fried Chicken (KFC) sudah melayani dunia selama lebih dari 70 tahun dengan ayam bumbu originalnya yang nggak terlupakan. Rahasia kenikmatan ayam KFC terdapat pada proses pembuatannya. Dengan resep rahasia yang menggabungkan 11 jenis bumbu dan rempah, ayam original KFC selalu dimasak secara fresh dan disiapkan bukan dengan mesin tapi dengan tangan penuh dedikasi. Semuanya ini dilakukan demi citarasa ayam originalnya yang nggak ada duanya.\\n\\nTentu saja menu terbaik KFC adalah ayam originalnya, yang juga sering disebut dengan Ayam O.R. Tapi KFC juga punya ayam krispi yang populer di Indonesia, lho. Ayam krispi KFC rasanya pedas di daging dan renyah di kulitnya. Jadi, kalau kamu mau pesan ayam dari KFC, jangan lupa bilang ayamnya mau yang Original atau Krispi, ya.\\n\\nSelain itu, KFC juga menjual banyak menu non-ayam lainnya yang sama enaknya. Kalau lagi ingin burger, pesan saja O.R. Burger yang berisikan daging ayam original KFC. Kalau lagi ingin yang sehat-sehat, cobain saja Twisty, semacam kebab berisikan salad dan potongan ayam krispi KFC. Yang pasti, KFC selalu punya sesuatu yang enak untuk disantap oleh siapa pun, di acara apa pun.\\n\\nJadi laper? Delivery aja, yuk, lewat GrabFood dan nikmati kelezatan KFC sekarang juga!"
+page_title="KFC Makanan Delivery Menu &amp; Promo | GrabFood ID"
+meta_description="Yuk, pesan berbagai menu hits KFC di GrabFood. Tambah nikmat, ada promo yang bikin hemat!"
+
+
+[chain.hokben-delivery]
+image="https://growth-public.grab.com/sandbox/imagegallery/dXVdBTrBbahxIwLZwYsVUDypLlrWWpER.jpg"
+chainName="Hokben"
+numbers='["HokBen"]'
+countries='["ID"]'
+
+[chain.hokben-delivery.locales.id-en]
+heading="\"\""
+body="Established in 1985 in Kebon Kacang, Jakarta, founder Hendra Arifin wanted to offer a range of Japanese bento dishes practical for takeaway or delivery orders. Its buffet-style menu, which allows customers to choose their dishes, quickly became iconic in the local food scene. \\n\\nHoka Hoka Bento, as the restaurant chain was first known, means “steaming hot food in a box”. Fun fact%3A In 2013, the restaurant officially rebranded as HokBen, the endearing nickname customers had been using! The menu consists of home-style dishes such as chicken katsu, chicken or beef teriyaki, chicken or beef yakiniku and karaage. You can also order from the a la carte menu, which offers HokBen's original chicken steak; for those who love food deliveries, the bento specials might be an easy choice. Though the menu is Japanese-inspired, HokBen has adapted its offering for local tastes%3A its sweet and extra spicy sambal is the perfect condiment for warm rice and chicken katsu. A local classic!\\n\\nEven though there's nothing else quite like HokBen in Indonesia, the restaurant is more than a Japanese fast food chain. With its mission to give back to the community, HokBen has launched various CSR programmes, such as blood donation drives, donations for the elderly, and scholarships for children in need. Its restaurants are also family focused, which is perhaps the reason why HokBen is such a go-to for people of all ages. "
+page_title="Hokben Food Delivery Menu &amp; Promo | GrabFood ID"
+meta_description="Get your food delivered to your doorstep with 3 at GrabFood. Find 3 promos and popular dishes and menu - get it delivered hot and fresh."
+
+[chain.hokben-delivery.locales.id-id]
+heading="\"\""
+body="Berdiri pertama kali pada tahun 1985 di Kebon Kacang, Jakarta, pendiri HokBen Hendra Arifin bermaksud menawarkan konsep bento praktis. Gaya penyajian makanan secara buffet yang membebaskan pengunjung untuk menunjuk hidangan apa saja yang mereka mau akhirnya menjadi ciri khas HokBen. Asal nama HokBen adalah Hoka Hoka Bento, yang berarti “makanan hangat dalam sebuah kotak.” Dan memang demikianlah sajian hidangan HokBen, apalagi kalau hidangannya disiapkan di dalam kotak waktu pesan untuk takeaway atau delivery.\\n\\nMenu HokBen terdiri dari masakan rumahan a la Jepang, seperti ayam katsu, daging teriyaki, daging yakiniku, dan karaage yang memiliki penggemarnya masing-masing. Popularitas HokBen sendiri didapat dari menu inspirasi Jepang dengan rasa yang sudah disesuaikan dengan lidah lokal. Contohnya, HokBen menyediakan sambal pedas nan manis yang pas banget untuk dimakan dengan nasi hangat dan ayam katsu-nya. \\n\\nSelain menyediakan makanan yang lekat di lidah orang Indonesia, HokBen juga memiliki misi untuk berkontribusi kepada masyarakat Indonesia melalui acara sumbang darah, donasi bagi para lansia, dan beasiswa bagi mereka yang membutuhkan. Nggak heran kan kalau restoran ini dicintai oleh seluruh masyarakat Indonesia."
+page_title="Hokben Makanan Delivery Menu &amp; Promo | GrabFood ID"
+meta_description="Yuk, pesan berbagai menu hits Hokben di GrabFood. Tambah nikmat, ada promo yang bikin hemat!"
+
+
+[chain.richeese-factory-delivery]
+image="https://growth-public.grab.com/sandbox/imagegallery/QwMWoncgSXOYcGoCJeWnFCANLMcLYFNX.jpg"
+chainName="Richeese Factory"
+numbers='["RicheeseFactory"]'
+countries='["ID"]'
+
+[chain.richeese-factory-delivery.locales.id-en]
+heading="\"\""
+body="Established by a company famous for its cheesy snacks, Richeese Factory offers a menu of savoury dishes served with its famous cheese sauce — as well as desserts. Serving Indonesians since 2011, its first outlet opened in the breezy city of Bandung. A decade later, it has expanded to many big cities throughout Indonesia with more than  160 outlets.\\n\\nKnowing how much Indonesians love spicy food, the Richeese Factory started by selling spicy fried chicken (the “Fire” series) served with its signature cheese sauce. The cheese and chilli combo has since become a favourite among fried chicken lovers. When it comes to kick, you can choose from level 0 (Beginner level) to level 5 (Ultimate level). Some may get confused between the Fire Chicken and the Hot &amp; Spicy (H&amp;S) Chicken. Both are spicy, but the Fire series goes next level with BBQ and cheese sauces.\\n\\nMeanwhile, those who don't eat spicy food can enjoy the Richicken menu. This is fried chicken with a thin layer of crispy chicken skin — famous for its umami factor. Order a side of BBQ sauce for a richer taste.\\n\\nGot a craving for delicious fried chicken with a difference? GrabFood can do a delivery to you!\\n"
+page_title="Richeese Factory Food Delivery Menu &amp; Promo | GrabFood ID"
+meta_description="Get your food delivered to your doorstep with 4 at GrabFood. Find 4 promos and popular dishes and menu - get it delivered hot and fresh."
+
+[chain.richeese-factory-delivery.locales.id-id]
+heading="\"\""
+body="Didirikan oleh perusahaan yang terkenal dengan camilan kejunya, menu paling populer di Richeese Factory adalah ayam dengan saus kejunya. Richeese Factory paham banget kalau rakyat Indonesia itu pecinta masakan pedas. Makanya menu yang ditonjolkan di sini adalah ayam goreng pedas Fire Chicken yang ditemani dengan saus keju leleh. Kombinasi asinnya keju dan pedasnya sambal pada ayam Fire Chicken-nya pasti langsung favorit di lidah kalangan pecinta ayam goreng pedas. Kalau kamu penasaran, langsung saja pesan lewat GrabFood dan pilih level pedasnya dari 0 (level pemula) hingga 5 (level Ultimate).\\n\\nSelain Fire Chicken, ada pula Hot &amp; Spicy (H&amp;S) Chicken yang nggak kalah pedasnya dari Fire Chicken. Kalau Fire Chicken dimasak dengan bumbu BBQ dan diselingi dengan saus keju, H&amp;S Chicken adalah ayam goreng pedas gurih. Bagi yang nggak tahan pedas, boleh cobain menu Richicken-nya, yaitu ayam goreng berbalut kulit krispi yang penuh dengan luapan rasa gurih tanpa rasa pedas. Untuk kenikmatan yang lebih maksimal, pesan tambah saus BBQ atau saus kejunya aja waktu memesan H&amp;S Chicken maupun Richicken. Dijamin makanmu bakal makin lahap!\\n\\nMembuka gerai pertamanya di Bandung pada tahun 2011, hampir sepuluh tahun kemudian, Richeese Factory sudah berkembang ke seluruh kota besar di Indonesia dengan lebih dari 160 gerai. Dengan kata lain, kapanpun kamu pingin makan ayam goreng, tinggal pesan delivery saja lewat GrabFood."
+page_title="Richeese Factory Makanan Delivery Menu &amp; Promo | GrabFood ID"
+meta_description="Yuk, pesan berbagai menu hits Richeese Factory di GrabFood. Tambah nikmat, ada promo yang bikin hemat!"
+
+
+[chain.pizza-hut-delivery]
+image="https://growth-public.grab.com/sandbox/imagegallery/veBNEVHNsqtzIxfduQrUgXiZNoVUTwfP.jpg"
+chainName="Pizza Hut"
+numbers='["PizzaHut"]'
+countries='["ID"]'
+
+[chain.pizza-hut-delivery.locales.id-en]
+heading="\"\""
+body="“Only in Pizza Hut!”\\n\\nIf you grew up in Indonesia, you would have heard this jingle somewhere, sometime in your lifetime. Pizza Hut is indeed close to everyone's heart. Popular in Indonesia since its arrival here in 1984, kids love going here and people order Pizza Hut for special occasions or just to spend a good time together in front of the TV, during a game night, or whenever there is something to celebrate together.\\n\\nPizza Hut Indonesia is indeed innovative. It doesn't just sell pizzas; it brings warmth. When you are alone at work, an order of Pizza Hut will make your working hours seem a bit less lonely. When you're celebrating something special, a Pizza Hut delivery will make it even more festive. Order from the menu loaded with options like a crust of melted cheese or sausage filling, and nobody ever misses out on their favourite flavour thanks to the Splitza, the big pizza split into two different toppings. If you're into the classics, walk into nostalgia with tastes from your childhood%3A American Favourite, Meat Lovers, and Super Supreme.\\n\\nPizza Hut has long been known for its delivery service, and now it's also available via GrabFood. So, wait no further. Browse the menu now and we'll deliver the warmth to your place.\\n"
+page_title="Pizza Hut Food Delivery Menu &amp; Promo | GrabFood ID"
+meta_description="Get your food delivered to your doorstep with 6 at GrabFood. Find 6 promos and popular dishes and menu - get it delivered hot and fresh."
+
+[chain.pizza-hut-delivery.locales.id-id]
+heading="\"\""
+body="Buat yang tumbuh besar di Indonesia, pasti pernah deh dengar jingle ini. Pizza Hut memang dekat dengan keseharian kita. Langsung melejit waktu pertama hadir di Indonesia pada tahun 1984, Pizza Hut memiliki image sebagai makanan di tengah acara kumpul-kumpul, mau itu acara spesial maupun cuma sekedar nonton TV atau main game.\\n\\nPizza Hut Indonesia memang inovatif karena secara umum mereka menawarkan kehangatan. Kalau lagi kerja sendirian, datangnya pesanan dari Pizza Hut pasti langsung membuat waktu kerjamu terasa lebih singkat. Dan kalau lagi ngerayain hari spesial, sebuah delivery dari Pizza Hut pasti bakal bikin acaramu jauh lebih meriah. Hidangannya memang selalu terasa menghangatkan suasana karena disukai semua orang, apalagi karena mereka terus berinovasi untuk menjaga kehangatan ini. Lihat saja kreasi pinggiran roti pizza yang bisa diisi lelehan keju atau sosis. Atau Splitza yang memberikan kamu dua pilihan rasa pizza berbeda dalam satu loyang, jadi nggak akan ada yang sedih karena nggak dapat rasa kesukaannya. \\n\\nSelain deretan menu inovatif tersebut, jangan lupakan juga menu-menu klasik nostalgia masa kecil seperti American Favorite, Meat Lovers, dan Super Supreme yang pastinya akan membangkitkan masa lalumu yang menghangatkan hati.\\n\\nDari dulu Pizza Hut memang sudah terkenal dengan pesanan delivery-nya. Tapi kini Pizza Hut makin terjangkau nih karena GrabFood ikutan turun tangan untuk membawa kehangatan pizza mereka ke rumahmu. Yuk, pesan sekarang.\\n"
+page_title="Pizza Hut Makanan Delivery Menu &amp; Promo | GrabFood ID"
+meta_description="Yuk, pesan berbagai menu hits Pizza Hut di GrabFood. Tambah nikmat, ada promo yang bikin hemat!"
+
+
+[chain.chatime-delivery]
+image="https://growth-public.grab.com/sandbox/imagegallery/mwUPzIMhfBtuFpxZfjbZoUixOxImMWRm.jpg"
+chainName="Chatime"
+numbers='["Chatime"]'
+countries='["ID"]'
+
+[chain.chatime-delivery.locales.id-en]
+heading="\"\""
+body="Who would have guessed that a bubble milk tea business would evolve into a global empire? This traditional drink from Taiwan is now globetrotting, and Indonesia is a big fan! With its huge menu of traditional teas and colourful toppings, Chatime has changed the way we consume tea.\\n\\nEstablished in 2005 in Taiwan by Henry Wang Yao-Hui, Chatime's most popular drink quickly became apparent%3A pearl milk tea. Chatime opened its first branch in Indonesia in 2011%3A served to-go with its thick straw and black pearls sunk to the bottom, to Indonesians, pearl milk tea was such an unusual drink and people were instantly curious. Less than 10 years later, there are over 270 kiosks sprawling across 39 cities in Indonesia. (In other words, any time you want to order a delivery of your favourite tea, Chatime is just a click away!)\\n\\nFeronia Wibowo, Director of Chatime Indonesia, believes in this milk tea business because Indonesians are tea lovers. With a menu adapted for the local palate and trends, Indonesians can enjoy a seasonal menu that includes flavours such as Chatime Cendol or the Brown Sugar series. Not a tea lover? Try one of the popular smoothies, from mango flavour to coconut.\\n\\nChatime's mission is to ‘promote Taiwan's typical milk tea all over the world as the best tea'. With more than 2500 outlets in 38 countries, we say%3A mission accomplished!\\n"
+page_title="Chatime Food Delivery Menu &amp; Promo | GrabFood ID"
+meta_description="Get your food delivered to your doorstep with 7 at GrabFood. Find 7 promos and popular dishes and menu - get it delivered hot and fresh."
+
+[chain.chatime-delivery.locales.id-id]
+heading="\"\""
+body="Sepuluh, dua puluh tahun lalu, nggak akan ada yang menyangka kalau bisnis bubble milk tea bisa mendunia. Tapi toh nyatanya minuman tradisional asal Taiwan ini sudah ‘berkeliling dunia' sampai akhirnya muncul di Indonesia tahun 2011 lewat Chatime. Dengan menu teh tradisionalnya yang bervariasi plus topping warna-warni, Chatime membawa kita ke sejarah dan citarasa teh asli.\\n\\nDidirikan pada tahun 2005 di Taiwan oleh Henry Wang Yao-Hui, menu Chatime yang langsung jadi primadona adalah Pearl Milk Tea. Disajikan dengan sedotan besar dan biji tapioka hitam (boba) yang mengendap di dasar gelas, minuman ini memang terlihat unik. Masyarakat Indonesia pun langsung terpikat.\\n\\nSelalu giat mengadaptasi menunya sesuai tren dan citarasa lokal, kita juga bisa menikmati berbagai menu musimannya, seperti Chatime Cendol atau seri Brown Sugar-nya. Bukan pecinta teh? Cobain aja smoothies-nya yang hadir dengan berbagai varian rasa. Ada dari mangga sampai kelapa, semuanya buah-buahan khas Indonesia.\\n\\nDengan inovasi menu yang cocok dengan orang Indonesia, nggak heran Chatime langsung tersebar ke 39 kota Indonesia dengan jumlah 270 gerai dalam waktu kurang dari 10 tahun. Ini berarti besar kemungkinan Chatime ada di kotamu.\\n\\nKalau kamu butuh kesegaran untuk menyejukkan hari yang panas atau menemani penatnya waktu kerja dan belajarmu, langsung buka delivery GrabFood saja. Pilih kesegaran favoritmu dari Chatime sekarang juga.\\n"
+page_title="Chatime Makanan Delivery Menu &amp; Promo | GrabFood ID"
+meta_description="Yuk, pesan berbagai menu hits Chatime di GrabFood. Tambah nikmat, ada promo yang bikin hemat!"
+
+
+[chain.jco-donuts-coffee-delivery]
+image="https://growth-public.grab.com/sandbox/imagegallery/aLCpMNvhOzwfTGjvxmYlokjpSTYWDHeG.jpg"
+chainName="J.CO Donuts & Coffee"
+numbers='["JCODonutsCoffee"]'
+countries='["ID"]'
+
+[chain.jco-donuts-coffee-delivery.locales.id-en]
+heading="\"\""
+body="J.CO Donuts &amp; Coffee's mission is simple%3A to serve you soft and fluffy donuts with premium toppings, then pair it with the best companion — coffee. This classic combo is what J.CO is all about. Its donut menu is extensive and it's no wonder that the 12-pack is the most ordered item! Get it delivered for an event as a sure-fire way to please guests.\\n\\nEstablished in Jakarta in 2005 by Johnny Andrean, J.CO's commitment to give you the perfect donut is clear. With a recipe developed to achieve balance and texture, premium toppings take J.CO's donuts to the next level. Think crisp Aussie almonds, smooth cream cheese from New Zealand and Japanese matcha. Not only delicious, the donut names are equally enjoyable%3A think Alcapone, Avocado Dicaprio and Berry Spears, just to name a few.\\n\\nWhile it's hard to choose, make sure you order the best-selling Alcapone, which is dipped in white chocolate and topped with sliced toasted almonds. Enjoy it on the spot or simply avoid the queue and get it delivered to you! Beyond donuts and coffee, J.CO was also one of the first in Indonesia to introduce self-serve fro-yo to its menu.\\n\\nNow, J.CO is branching out beyond Indonesia. With outlets in Malaysia, Hong Kong, Philippines, Singapore and Saudi Arabia, J.CO is set to rival other donuts and coffee giants in the world.\\n"
+page_title="J.CO Donuts &amp; Coffee Food Delivery Menu &amp; Promo | GrabFood ID"
+meta_description="Get your food delivered to your doorstep with 8 at GrabFood. Find 8 promos and popular dishes and menu - get it delivered hot and fresh."
+
+[chain.jco-donuts-coffee-delivery.locales.id-id]
+heading="\"\""
+body="J.Co asal Indonesia ini sudah melanglang buana ke luar Indonesia dan bisa ditemukan di Malaysia, Hongkong, Filipina, Singapura, hingga Arab Saudi. Misi J.Co Donuts &amp; Coffee terbilang sederhana, yakni, menyajikan donat lembut nan empuk dengan topping premium. Donatnya ini cocok banget untuk dinikmati bersama kopi.\\n\\nDidirikan pada tahun 2005 oleh Johnny Andrean, donat J.Co memang prima. Adonannya berimbang, teksturnya menggoda lidah, dan topping-nya premium. Lihat saja topping seperti almond krispi dari Australia, cream cheese lembut dari Selandia Baru, dan matcha yang didatangkan langsung dari Jepang. Menggoda banget, kan?\\n\\nSelain enak, donat-donatnya juga memiliki nama menarik%3A Alcapone, Avocado Dicaprio, dan Berry Spears. Alcapone adalah salah satu donat favorit yang berbalut cokelat putih dengan irisan almond panggang. Rasanya nggak umum, tapi pas banget di lidah. Saking banyaknya menu donat di J.Co, pelanggan seringnya pesan paket berisikan 12 donat (12-Pack Menu) agar bisa langsung mencicipi berbagai jenis rasa donatnya yang berbeda.\\n\\nBaik untuk makan pagi, camilan sore, atau panganan waktu istirahat rapat, donat dan kopi J.Co pasti pas banget untuk dinikmati. Delivery saja dari GrabFood biar praktis dan nyaman.\\n"
+page_title="J.Co Donuts &amp; Coffee Makanan Delivery Menu &amp; Promo | GrabFood ID"
+meta_description="Yuk, pesan berbagai menu hits J.Co Donuts &amp; Coffee di GrabFood. Tambah nikmat, ada promo yang bikin hemat!"
+
+
+[chain.geprek-bensu-delivery]
+image="https://growth-public.grab.com/sandbox/imagegallery/LKAJpcRTvaoLfkWhYTQmyODwLkMeAQzP.jpg"
+chainName="Geprek Bensu"
+numbers='["GeprekBensu"]'
+countries='["ID"]'
+
+[chain.geprek-bensu-delivery.locales.id-en]
+heading="\"\""
+body="One of the pioneers of ayam geprek, Geprek Bensu has been serving its affordable, delicious version of this dish since 2017. Owned by Indonesian actor Ruben Onsu, this brand is now available in more than 130 outlets throughout Indonesia. Its menu is all about ayam geprek%3A smashed fried chicken mixed with sambals of different varieties and levels of spiciness. The four favourite items to order are Geprek Bensu Original; Geprek Bensu Sambal Embe (a sambal from Bali); Geprek Bensu Leleh served with a mixed sauce of mozzarella cheese and egg; and Geprek Bensu Telur Asin (salted egg). Each of these are renowned for their distinct flavours.\\n\\nGeprek Bensu is unique in the way that it showcases the diverse flavours of Indonesia. For a Javanese taste, there's the Paket Nasi Daun Jeruk and Paket Sambal Kecombrang. From Sumatra, Geprek Bensu introduces Geprek Bensu Sambal Teri and Geprek Bensu Nasi Rendang. Flavours from other islands appear in Geprek Bensu Sambal Matah, Geprek Bensu Dabu-dabu, and Geprek Bensu Sambal Roa.\\n\\nIf you're currently craving fried chicken that is unmistakably Indonesian, check Geprek Bensu's menu on GrabFood and order a delivery straight to your place!\\n"
+page_title="Geprek Bensu Food Delivery Menu &amp; Promo | GrabFood ID"
+meta_description="Get your food delivered to your doorstep with 9 at GrabFood. Find 9 promos and popular dishes and menu - get it delivered hot and fresh."
+
+[chain.geprek-bensu-delivery.locales.id-id]
+heading="\"\""
+body="Sebagai salah satu pelopor tren ayam geprek, Geprek Bensu menyajikan menu lezat yang ramah di kantong sejak 2017. Dimiliki oleh aktor Ruben Onsu, merek ini sudah tersebar lewat 130 gerainya di seluruh Indonesia. Menunya sendiri solid bertemakan ayam geprek, yaitu ayam goreng bercampur sambal yang kemudian digeprek alias dipukul. Empat menu favorit yang bisa kamu pesan adalah Geprek Bensu Original, Geprek Bensu Sambal Embe (sambal khas Bali), Geprek Bensu Leleh dengan saus campuran keju mozzarella dan telur, serta Geprek Bensu Telur Asin. Masing-masing menu ini dijamin memberikan citarasa khasnya masing-masing.\\n\\nUniknya Geprek Bensu adalah menunya yang bertemakan Indonesia. Mereka menonjolkan ragam citarasa kuliner Nusantara. Buat yang suka citarasa Jawa, ada Paket Nasi Daun Jeruk dan Paket Sambal Kecombrang. Untuk yang kangen dengan rasa dari Sumatera? Pesan saja Geprek Bensu Sambal Teri dan Geprek Bensu Nasi Rendang. Selain itu, ada juga rasa Nusantara lainnya seperti Geprek Bensu Sambal Matah, Geprek Bensu Dabu-dabu, dan Geprek Bensu Sambal Roa. Jadi, kalau lagi kangen ayam goreng yang Indonesia banget, langsung aja ke Geprek Bensu. Bisa delivery ke tempatmu juga, lho, pakai GrabFood. \\n\\nTunggu apa lagi? Yuk, pesan sekarang.\\n"
+page_title="Geprek Bensu Makanan Delivery Menu &amp; Promo | GrabFood ID"
+meta_description="Yuk, pesan berbagai menu hits Geprek Bensu di GrabFood. Tambah nikmat, ada promo yang bikin hemat!"
+
+
+[chain.yoshinoya-delivery]
+image="https://growth-public.grab.com/sandbox/imagegallery/CKPSpcLVsdorsutjpfpqpYsQhlHnAnMM.jpg"
+chainName="Yoshinoya"
+numbers='["Yoshinoya"]'
+countries='["ID"]'
+
+[chain.yoshinoya-delivery.locales.id-en]
+heading="\"\""
+body="From Japan to all around the world, Yoshinoya offers a menu of  affordable Japanese-style rice bowls. Established back in 1899 in Tokyo, Japan, Yoshinoya has now become a popular rice bowl restaurant, with more than 2,000 locations scattered all across the globe.\\n\\nYoshinoya started in 1899 with its signature dish%3A the  Gyūdon Beef Bowl ®; thinly sliced beef that simply melts in the mouth . Over a century later, Yoshinoya now serves many more variations to match the local Indonesian appetite. You can now order a range of beef dishes such as the sweeter Yakiniku Beef Bowl; the peppery Black Pepper Beef Bowl; the protein enriched Egg Mayo Beef Bowl; the spicy Red HOT Chili Beef Bowl; the Creamy Beef Bowl; or the Crispy Spinach Beef Bowl. Whatever your palate, Yoshinoya has something to offer.\\n\\nHungry yet? Order now through GrabFood for delivery and enjoy a Japanese rice bowl, pronto at home or work. Don't forget to also order the signature side dishes, all prepared in Japanese-inspired style!"
+page_title="Yoshinoya Food Delivery Menu &amp; Promo | GrabFood ID"
+meta_description="Get your food delivered to your doorstep with 10 at GrabFood. Find 10 promos and popular dishes and menu - get it delivered hot and fresh."
+
+[chain.yoshinoya-delivery.locales.id-id]
+heading="\"\""
+body="Dari Jepang untuk seluruh dunia, Yoshinoya memberikan menu rice bowl a la Jepang dengan harga bersahabat. Mulai berjualan sejak tahun 1899 di Tokyo, Jepang, kini Yoshinoya sudah hadir di dua ribu lebih lokasi di seluruh dunia serta menjadi salah satu ikon restoran rice bowl dunia.\\n\\nYoshinoya memulai sejarahnya dengan menu khas Gyūdon Beef Bowl®, yakni, semangkuk nasi yang ditemani potongan-potongan tipis daging sapi yang empuk dan rasanya meleleh waktu dikunyah. Seabad setelah toko pertamanya berdiri, kini Yoshinoya nggak cuma menjajakan menu khas tersebut tapi juga rasa yang disesuaikan dengan lidah lokal. Di Indonesia, masakan daging sapinya kini beragam. Ada rasa manis Yakiniku Beef Bowl, rasa pedas lada Black Pepper Beef Bowl, suguhan protein maksimal dari Egg Mayo Beef Bowl, rasa pedas cabe Chili Beef Bowl, rasa krim Creamy Beef Bowl, sampai nuansa sehat Crispy Spinach Beef Bowl. Apapun keinginan lidahmu, pasti ada deh di Yoshinoya.\\n\\nSudah lapar, belum? Yuk, pesan Yoshinoya lewat GrabFood buat delivery ke rumah atau kantormu. Jangan lupa pesan sampingan a la Jepangnya, ya. Enak banget nih untuk disantap bareng semangkuk rice bowl maupun dijadikan camilan."
+page_title="Yoshinoya Makanan Delivery Menu &amp; Promo | GrabFood ID"
+meta_description="Yuk, pesan berbagai menu hits Yoshinoya di GrabFood. Tambah nikmat, ada promo yang bikin hemat!"
+
+
+[chain.burger-king-delivery]
+image="https://growth-public.grab.com/sandbox/imagegallery/qfLjumMdQyBpWXauuzTdnKtKgqfVJyVM.jpg"
+chainName="Burger King"
+numbers='["BurgerKing"]'
+countries='["ID"]'
+
+[chain.burger-king-delivery.locales.id-en]
+heading="\"\""
+body="stablished in Florida in 1953, Burger King is one of the best known fast food chains in the world.\\n\\nBurger King offers a classic menu of burgers in a comfortable, family-friendly setting. Along with using premium ingredients, the company provides nutritional information for each item on the menu so that diners can make “educated choices in customising their meals” before ordering.\\n\\nIts signature burger (and you might know it well) is the Whopper%3A a quarter-pound flame-grilled beef patty, served with the perfect combo of fresh lettuce, tomatoes, crunchy pickles, mayo and ketchup. Since its introduction in 1957, its popularity just keeps growing — you can order a Whopper just how you like it. Want extra cheese or no onion? You got it. Fun fact%3A Burger King claims there are 221,184 possible ways for a guest to order an original Whopper!\\n\\nOf course, there's a lot more to love on the menu, from the crispy fried chicken burgers to the fish filet and mushroom options, or burgers loaded with beef or chicken rashers to make the classic Burger King menu friendly for all local fans. \\n\\nGot a burger craving yet? Order a Whopper or your other faves any time for delivery via GrabFood!\\n"
+page_title="Burger King Food Delivery Menu &amp; Promo | GrabFood ID"
+meta_description="Get your food delivered to your doorstep with 11 at GrabFood. Find 11 promos and popular dishes and menu - get it delivered hot and fresh."
+
+[chain.burger-king-delivery.locales.id-id]
+heading="\"\""
+body="Didirikan di Florida pada tahun 1953, Burger King adalah restoran cepat saji ternama di dunia yang menawarkan menu klasik burger yang disajikan di tempat nyaman. Nggak hanya memakai bahan-bahan premium, Burger King juga memperlihatkan informasi gizi di setiap menu mereka supaya pelanggan bisa mempertimbangkan keperluan nutrisi mereka sebelum memesan.\\n\\nBurger favorit di sini adalah Whopper, daging sapi 113 gram yang dipanggang dengan api besar dan dikombinasikan sempurna dengan selada segar, tomat, acar, mayones, dan kecap. Sejak kemunculan Whopper pada tahun 1957, popularitasnya terus menanjak pesat. Sekarang kamu bahkan bisa mengutak-atik Whopper sesuai kemauanmu, misalnya kamu mau kejunya ditambah atau nggak mau pakai bawang. Tinggal sebut saja di catatanmu waktu pesan delivery lewat GrabFood.\\n\\nSelain Whopper, ada banyak menu lainnya yang wajib dicoba seperti burger dengan ayam goreng renyah Classic Crispy Chicken, burger fillet ikan (Fish Fillet Burger), hingga burger jejamuran Mushroom Swiss yang digemari para penggemar jamur. Apapun jenis daging pilihanmu, Burger King pasti ada menu burger enaknya.\\n\\nNgidam burger? Yuk, langsung pesan Whopper dan menu favoritmu dari Burger King lewat GrabFood.\\n"
+page_title="Burger King Makanan Delivery Menu &amp; Promo | GrabFood ID"
+meta_description="Yuk, pesan berbagai menu hits Burger King di GrabFood. Tambah nikmat, ada promo yang bikin hemat!"
+
+
+[chain.dominos-pizza-delivery]
+image="https://growth-public.grab.com/sandbox/imagegallery/LlgfUFvyCdGJHwwiUgHfKbrGerlXCmKO.jpg"
+chainName="Domino's Pizza"
+numbers='["DominosPizza"]'
+countries='["ID"]'
+
+[chain.dominos-pizza-delivery.locales.id-en]
+heading="\"\""
+body="Domino's Pizza has always been known for its delivery service. Established by brothers Tom and James Monaghan in the United States in 1960, this pizza chain entered Indonesia in 2008 and is now also available for delivery via GrabFood in Greater Jakarta, Serang, Bandung, and Bali.\\n\\nIf you've never made an order with Domino's Pizza before, start with your favourite protein from any of these popular menu items%3A Chicken Delight, Beef Pepperoni Feast, Double Beef Burger, Tuna Delight, or Meat &amp; Meat. Don't forget one of the popular sides, such as the Crispy Chicken Strips, Garlic Cheesy Rolls, or the classic Chicken Wings. Up for a chilli challenge? Try the Habanero Boneless Wings. Habanero is a hot variety of chilli pepper from Mexico%3A if you're into super spicy food, you've gotta try this one!\\n\\nBesides pizzas, the chain also offers favourite quick meals such as sandwiches, pasta, and Mac n Cheese. Can't resist dessert? Try the Chocolate Lava or Strawberry Chocolate Lava and voila! you'll end up full and satisfied.\\n\\nOrder Domino's Pizza now for a great feast with your family and friends!\\n"
+page_title="Domino's Pizza Food Delivery Menu &amp; Promo | GrabFood ID"
+meta_description="Get your food delivered to your doorstep with 12 at GrabFood. Find 12 promos and popular dishes and menu - get it delivered hot and fresh."
+
+[chain.dominos-pizza-delivery.locales.id-id]
+heading="\"\""
+body="Domino's Pizza adalah gerai pizza yang dari awalnya terkenal dengan layanan pesan antarnya. Didirikan oleh kakak-beradik Tom dan James Monaghan di Amerika Serikat pada tahun 1960, pizza ini akhirnya masuk Indonesia pada tahun 2008. Kini, Domino's Pizza bisa dinikmati melalui delivery GrabFood di daerah Jakarta, Serang, Bandung, dan Bali.\\n\\nWaktu memesan Domino's Pizza, tinggal pilih saja protein favorit untuk pizzamu dari serangkaian menu unggulan mereka%3A Chicken Delight (ayam), Beef Pepperoni Feast (sapi), Double Beef Burger (sapi), Tuna Delight (ikan tuna), atau Meat &amp; Meat (sapi). Setelah itu, pilih camilan atau makanan pembukanya untuk mengawali maupun menemani si pizza. Ada Crispy Chicken Strips, Garlic Cheesy Rolls, maupun Chicken Wings yang klasik. Kalau kamu mau yang pedas menantang, jangan sampai kelewatan Habanero Boneless Wings. Habanero ini adalah salah satu cabe terpedas di dunia yang asalnya dari Meksiko dan sudah diakui kepedasannya di seluruh dunia.\\n\\nSelain pizza, Domino's juga menawarkan hidangan ringkas yang nggak kalah populernya%3A sandwich, pasta, dan Mac ‘n Cheese. Selain itu, ada makanan penutup Chocolate Lava atau Strawberry Chocolate Lava buat kamu yang suka manis. Ini adalah kue rasa cokelat atau stroberi yang melelehkan lava cokelat dari dalam kuenya waktu dipotong.\\n\\nWalaupun judulnya adalah gerai pizza tapi pilihan makanannya lengkap, kan? Mau pizza saja, atau komplit dari makanan pembuka sampai penutup, semuanya ada. Tunggu apa lagi? Yuk, pesan sekarang lewat GrabFood!"
+page_title="Domino's Pizza Makanan Delivery Menu &amp; Promo | GrabFood ID"
+meta_description="Yuk, pesan berbagai menu hits Domino's Pizza di GrabFood. Tambah nikmat, ada promo yang bikin hemat!"
+
+
+[chain.amanda-brownies-delivery]
+image="https://growth-public.grab.com/sandbox/imagegallery/pgxJXlkZpbEkyXjIuZtlajeMgnadoFbc.jpg"
+chainName="Amanda Brownies"
+numbers='["AmandaBrownies"]'
+countries='["ID"]'
+
+[chain.amanda-brownies-delivery.locales.id-en]
+heading="\"\""
+body="If you're thinking about brownies, it's got to be Amanda, a favourite with sweet-tooths across Indonesia. Who is Amanda? Amanda isn't actually a person, but an acronym for “Anak Menantu Damai”. This brownie boutique was founded by Ibu Sumi Wiludjeng in 1999; she initially sold bolu chocolate cakes door to door, delivered by bike. Slowly, the cakes evolved into the brownies we know and love today, the brand grew in popularity and Amanda Brownies became one of the precious food souvenirs people sought out when they made a trip to Bandung. Now, with Amanda Brownies available across the country, you can enjoy these famous treats delivered right to your door. \\n\\nWith business growing, Amanda Brownies has expanded the menu to create various brownie innovations. Besides the top-selling Original Brownie, recent additions include Bali Banana, Lapis Kukus Blitar, Lapis Kukus Tugu Malang, Pia Kukus, and Pie Susu, all to satisfy a sweet tooth and cravings for local snacks. Now, there's no need to have a trip to Bandung for all these delicacies. Just sit back and simply order your favourites with a click through Grab's delivery app.\\n"
+page_title="Amanda Brownies Food Delivery Menu &amp; Promo | GrabFood ID"
+meta_description="Get your food delivered to your doorstep with 13 at GrabFood. Find 13 promos and popular dishes and menu - get it delivered hot and fresh."
+
+[chain.amanda-brownies-delivery.locales.id-id]
+heading="\"\""
+body="Ingat brownies pasti ingat Amanda Brownies, sajian favorit para pecinta makanan manis di seluruh Indonesia. Siapa sih Amanda? Amanda ternyata bukan nama seseorang tapi kependekan dari “Anak Menantu Damai”. Butik brownies ini didirikan oleh Ibu Sumi Wiludjeng pada tahun 1999 yang awalnya berjualan bolu cokelat dari rumah ke rumah dengan menggunakan sepeda. Perlahan-lahan, kuenya berkembang menjadi brownies yang sekarang kita cintai ini. Saking terkenalnya, Amanda Brownies sering dijadikan oleh-oleh wajib bagi siapapun yang mampir di Bandung.\\n\\nDengan bisnisnya yang semakin berkembang, Amanda Brownies akhirnya memperluas menu mereka sampai mencakup berbagai inovasi brownies. Selain Original Brownies yang sudah populer selama ini, Amanda Brownies sekarang juga menawarkan rasa Bali Banana, Lapis Kukus Blitar, Lapis Kukus Tugu Malang, Pia Kukus, dan Pie Susu –terinspirasi dari citarasa legit kue tradisional favorit Indonesia.\\n\\nUntungnya sekarang Amanda Brownies nggak hanya hadir di Bandung tapi juga bisa ditemukan di seluruh penjuru negeri%3A Jawa, Bali, Sumatera, Kalimantan, dan Sulawesi. Tinggal pesan delivery lewat GrabFood deh.\\n"
+page_title="Amanda Brownies Makanan Delivery Menu &amp; Promo | GrabFood ID"
+meta_description="Yuk, pesan berbagai menu hits Amanda Brownies di GrabFood. Tambah nikmat, ada promo yang bikin hemat!"
+
+
+[chain.kopi-kenangan-delivery]
+image="https://growth-public.grab.com/sandbox/imagegallery/ggibkzFVWQJYMwdYhategVlZGwYsTGxE.jpg"
+chainName="Kopi Kenangan"
+numbers='["KopiKenangan"]'
+countries='["ID"]'
+
+[chain.kopi-kenangan-delivery.locales.id-en]
+heading="\"\""
+body="Kopi Kenangan's founder Edward Tirtanata wanted a brand that was easily relatable to people's lives. And what's more relatable than a tale of heartbreak? Kopi Kenangan's heartbreak-inspired menu items have melted many Indonesians' hearts. And not only millennials!\\n\\nKopi Kenangan was created in 2017 with a personalised concept in mind. and a delicious coffee  menu that is accessible to everyone, regardless of  their income. No wonder Kopi Kenangan is now becoming the place to order iced milk coffee (Es Kopi Susu) that is loved across Indonesia; especially for delivery. With more than two million cups sold every month from 250 kiosks in 18 cities, Kopi Kenangan shows that Es Kopi Susu is the new coffee trend for the country.\\n\\nAside from Es Kopi Sus; one of the top favourites here is Kopi Kenangan Mantan%3A ice milk coffee with brown sugar. After all, memories with our exes are always bittersweet, just like coffee.\\n"
+page_title="Kopi Kenangan Food Delivery Menu &amp; Promo | GrabFood ID"
+meta_description="Get your food delivered to your doorstep with 14 at GrabFood. Find 14 promos and popular dishes and menu - get it delivered hot and fresh."
+
+[chain.kopi-kenangan-delivery.locales.id-id]
+heading="\"\""
+body="Pemilik Kopi Kenangan, Edward Tirtanata, mau membuat merek dengan cerita yang dekat di hati orang Indonesia. Cerita apa lagi yang paling cocok selain kisah patah hati? Tak pelak, inspirasi menu Kopi Kenangan pun diambil dari berbagai kisah cinta. Hasilnya? Hati warga Indonesia pun terpikat, dan nggak hanya generasi milenial saja yang terpincut tapi juga seluruh kalangan dan usia.\\n\\nKopi Kenangan didirikan pada tahun 2017 dengan konsep kopi berkualitas yang dijual dengan harga terjangkau. Nggak heran banyak yang memesan es kopi susunya baik melalui gerai maupun delivery. Angka dua juta gelas yang terjual setiap bulannya dari 250 outletnya di seluruh Indonesia membuktikan bahwa es kopi susu Kopi Kenangan memang dekat di hati masyarakat Indonesia.\\n\\nSelain es kopi susu, menu favorit lainnya di sini adalah Kopi Kenangan Mantan, yaitu campuran es cokelat asli dengan gula aren. Serupa dengan memori tentang mantan yang pahit-pahit manis, kan?\\n\\nYuk, pesan Kopi Kenangan di GrabFood sekarang. Kamu tinggal tunggu deh segelas cerita cinta sampai di lokasimu.\\n"
+page_title="Kopi Kenangan Makanan Delivery Menu &amp; Promo | GrabFood ID"
+meta_description="Yuk, pesan berbagai menu hits Kopi Kenangan di GrabFood. Tambah nikmat, ada promo yang bikin hemat!"
+
+
+[chain.ayam-gepuk-pak-gembus-delivery]
+image="https://growth-public.grab.com/sandbox/imagegallery/xcHHeVWCAeqADIvmnIxfICgqUXrmdDIx.jpg"
+chainName="Ayam Gepuk Pak Gembus"
+numbers='["AyamGepukPakGembus"]'
+countries='["ID"]'
+
+[chain.ayam-gepuk-pak-gembus-delivery.locales.id-en]
+heading="\"\""
+body="Ayam Gepuk Pak Gembus is renowned for selling hot and spicy smashed chicken, which is loved by all.\\n\\nOwned by Ridho Nurul Adityawan, the name “Gembus” comes from his childhood name. After saving money working a variety of jobs, Ridho decided to finally make his dream come true by running his own business. He opened his first outlet in a tent in Pesanggrahan, West Jakarta back in October 2013. In less than a year, Ridho started to expand his business through a franchise system and now has almost 700 outlets across Indonesia and neighbouring countries. The growth and success has come solely from word of mouth; evidence that a tasty menu will create its own fan base.\\n\\nThe signature spicy smashed chicken with garlic and onion chili paste is made to order. Choose between fried, battered or grilled chicken. With outlets across the country, Ayam Gepuk Pak Gembus can now be easily enjoyed through GrabFood delivery."
+page_title="Ayam Gepuk Pak Gembus Food Delivery Menu &amp; Promo | GrabFood ID"
+meta_description="Get your food delivered to your doorstep with 15 at GrabFood. Find 15 promos and popular dishes and menu - get it delivered hot and fresh."
+
+[chain.ayam-gepuk-pak-gembus-delivery.locales.id-id]
+heading="\"\""
+body="Ayam Gepuk Pak Gembus terkenal dengan ayam gepuk pedasnya yang digemari banyak orang. Menu populer para penggemarnya tentu saja si ayam gepuk original dengan Sambal Gembus yang spektakuler pedasnya. Ayamnya bisa dipilih antara ayam Original (ayam goreng biasa) atau ayam Gembus Krispi (ayam goreng tepung). Sambalnya sendiri adalah sambal bawang dengan rasa pedas mantap yang dibuat per pesanan.\\n\\nNama “Gembus” didapat dari nama kecil sang pemilik, Ridho Nurul Adityawan. Setelah mengumpulkan uang dari berbagai pekerjaannya, Ridho akhirnya memutuskan untuk membuka bisnisnya sendiri. Pada bulan Oktober 2013, tunailah impiannya waktu kedai ayam gepuk pertamanya di Pesanggrahan, Jakarta dibuka. Belum sampai setahun, gerai ayamnya sudah langsung melebarkan sayap bisnis melalui sistem waralaba hingga sekarang ayamnya tersedia di 700 outletnya yang tersebar di Indonesia hingga ke negara-negara tetangga.\\n\\nKunci suksesnya apa sih? Ternyata merek satu ini terkenal hanya melalui promosi mulut ke mulut para penggemarnya, lho. Inilah bukti bahwa Ayam Gepuk Pak Gembus enaknya nggak main-main. Kalau kamu penasaran dengan rasa yang bikin orang semangat untuk mempromosikan Ayam Gepuk Pak Gembus, langsung saja pesan lewat delivery GrabFood."
+page_title="Ayam Gepuk Pak Gembus Makanan Delivery Menu &amp; Promo | GrabFood ID"
+meta_description="Yuk, pesan berbagai menu hits Ayam Gepuk Pak Gembus di GrabFood. Tambah nikmat, ada promo yang bikin hemat!"
+
+
+[chain.kopi-janji-jiwa-delivery]
+image="https://growth-public.grab.com/sandbox/imagegallery/ggibkzFVWQJYMwdYhategVlZGwYsTGxE.jpg"
+chainName="Kopi Janji Jiwa"
+numbers='["KopiJanjiJiwa"]'
+countries='["ID"]'
+
+[chain.kopi-janji-jiwa-delivery.locales.id-en]
+heading="\"\""
+body="Janji Jiwa began life as a small coffee kiosk at ITC Kuningan, Jakarta in 2018 and today sells five million cups a month from more than 400 kiosks nationwide. What's the secret to its quick success? It's a commitment to farmers, partners, and its people.\\n\\nJanji Jiwa serves only fresh-to-cup products, sourcing coffee directly from farmers in Sumatera, which is then processed and roasted directly by Janji Jiwa. As the brand grows, the farmers benefit, too. Now, the company orders 30 tonnes of green beans every month from farmers.\\n\\nTheir partners reap the benefits, too. Nearly 90% of Janji Jiwa stores are owned by partners, and this number is rapidly growing as Janji Jiwa looks at having 700 kiosks in the near future, as consumers enjoy the convenience of ordering from delivery apps such as GrabFood. \\n\\nJanji Jiwa's menu is simple and delicious%3A iced coffee or tea with classic flavours such as green tea or chocolate. Look out for creative collaborations too, such as the recent tie-up with the famous barista Muhammad Aga. Make sure to order the Es Kopi Susu and Es Susu Coklat, two of the most popular items on the menu that are made with the farmers, partners, and people in mind."
+page_title="Kopi Janji Jiwa Food Delivery Menu &amp; Promo | GrabFood ID"
+meta_description="Get your food delivered to your doorstep with 16 at GrabFood. Find 16 promos and popular dishes and menu - get it delivered hot and fresh."
+
+[chain.kopi-janji-jiwa-delivery.locales.id-id]
+heading="\"\""
+body="Janji Jiwa memulai perjalanan kedai kopinya di ITC Kuningan, Jakarta, pada tahun 2018. Sejak itu, Janji Jiwa sudah berkembang pesat hingga menjual 5 juta minuman melalui 400 kedainya di seluruh penjuru Indonesia.\\n\\nApa rahasia suksesnya? Mereka ternyata memiliki komitmen untuk menggandeng para petani, partner, dan masyarakat. Janji Jiwa menggunakan konsep fresh-to-cup, yaitu membeli kopi langsung dari para petani di Sumatera yang kemudian biji kopinya langsung mereka proses dan sangrai sendiri. Seiring bertumbuhnya merek mereka, para petani juga ikut menuai manfaatnya karena sekarang Janji Jiwa memesan sekitar 30 ton biji kopi dari para petani ini tiap bulannya.\\n\\nPartner, atau pembeli waralaba Janji Jiwa, ikut merasakan betapa kuatnya merek ini karena semakin hari semakin banyak yang tertarik untuk mengikuti program waralaba mereka. Minat ini tercermin pada jumlah gerai partner yang begitu banyak di seluruh Indonesia dan mencakup hampir 90% dari seluruh gerai Kopi Janji Jiwa. Dengan semakin berkembangnya jaringan Janji Jiwa serta meningkatnya minat masyarakat untuk memesan lewat delivery, Janji Jiwa menargetkan untuk membuka hingga 700 gerai dalam waktu dekat.\\n\\nMenu Janji Jiwa terbilang sederhana namun lezat. Dua menu paling populernya adalah Es Kopi Susu dan Es Susu Coklat, yang merupakan hasil kolaborasi dengan para petani Indonesia. Racikan mereka memberikan rasa klasik teh hijau ataupun cokelat dari tanah Indonesia langsung. Menarik banget, kan? Yuk, langsung pesan kopinya lewat GrabFood."
+page_title="Kopi Janji Jiwa Makanan Delivery Menu &amp; Promo | GrabFood ID"
+meta_description="Yuk, pesan berbagai menu hits Kopi Janji Jiwa di GrabFood. Tambah nikmat, ada promo yang bikin hemat!"
+
+
+[chain.holland-bakery-delivery]
+image="https://growth-public.grab.com/sandbox/imagegallery/eVNNLYFIPvDhSzSoRtljVETlmahAxbaz.jpg"
+chainName="Holland Bakery"
+numbers='["HollandBakery"]'
+countries='["ID"]'
+
+[chain.holland-bakery-delivery.locales.id-en]
+heading="\"\""
+body="Easy to spot with its Dutch-style windmill facade or logo, Holland Bakery is one of Indonesia's pioneers in modern bakery . Established in 1978, this Indonesia-based bakery now has more than 400 outlets all across the country and is Halal certified, showing its commitment to Indonesia's large population of Muslims.\\n\\nPicking a menu favourite at Holland Bakery is hard because everyone has his/her own favourites. Some prefer the breads or croissants for a regular Western breakfast menu, while others can't do without an order of  tasty Indonesian traditional snacks like lemper, pastel, soes, nastar, pisang bolen, or bika ambon in the afternoon. Many special occasions  depend on Holland Bakery for a cake to share; whether  celebrating birthdays or achievements.  \\n\\nIf you forget to buy bread for tomorrow's breakfast or forgot to order a cake in time for a special birthday, just relax and order a delivery via GrabFood. Don't let your day (or your loved one's) be ruined!\\n"
+page_title="Holland Bakery Food Delivery Menu &amp; Promo | GrabFood ID"
+meta_description="Get your food delivered to your doorstep with 17 at GrabFood. Find 17 promos and popular dishes and menu - get it delivered hot and fresh."
+
+[chain.holland-bakery-delivery.locales.id-id]
+heading="\"\""
+body="Gampang dikenali dengan kincir angin Belandanya yang ada di bagian atap gerai atau logonya, Holland Bakery merupakan salah satu pelopor toko roti modern di Indonesia. Didirikan tahun 1978, toko roti asli Indonesia ini sekarang sudah memiliki lebih dari 400 outlet di seluruh Indonesia dan sudah bersertifikasi HALAL.\\n\\nMenu di Holland Bakery sangat beragam dan semua orang pasti punya favoritnya sendiri di sini. Ada yang rutin beli rotinya untuk menu sarapan praktis a la Barat, ada pula yang selalu memesan camilan tradisional Indonesianya seperti lemper, pastel, soes, nastar, pisang bolen, atau bika ambon untuk ngemil sore hari atau menemani acara kumpul-kumpul. Banyak juga yang ingatnya Holland Bakery waktu perlu beli kue tart untuk perayaan spesial. Dengan ragam kreasinya, Holland Bakery memang punya semua jenis kudapan dan konsumsi yang sesuai untuk situasi apa pun.\\n\\nDengan kehadirannya di GrabFood, Holland Bakery sekarang jadi semakin dekat denganmu. Nggak perlu lagi khawatir waktu lupa beli roti buat sarapan atau nggak sempat beli kue tart untuk orang tercinta. Sekarang semuanya ini bisa kamu pesan lewat delivery GrabFood. Ringkas dan praktis, kan?\\n"
+page_title="Holland Bakery Makanan Delivery Menu &amp; Promo | GrabFood ID"
+meta_description="Yuk, pesan berbagai menu hits Holland Bakery di GrabFood. Tambah nikmat, ada promo yang bikin hemat!"
+
+
+[chain.solaria-delivery]
+image="https://growth-public.grab.com/sandbox/imagegallery/CJyaQUhKryHGAnhCNnpcdXiYztqkdncS.jpg"
+chainName="Solaria"
+numbers='["Solaria"]'
+countries='["ID"]'
+
+[chain.solaria-delivery.locales.id-en]
+heading="\"\""
+body="Solaria is a family-friendly restaurant that has been around for more than 20 years. The menu is extensive, ranging from the restaurant's own unique twist on international classics like chicken cordon bleu to kwetiau siram.\\n\\nStarted in 1991, Solaria was a small restaurant with just four employees. Aliuyanto, the owner, decided to quit his office job to open his own business. Over the years, Solaria has gained its popularity. And now, decades later, it shows no signs of slowing down. It now counts two hundred restaurants over 31 provinces and 55 cities.\\n\\nAs for the menu, Solaria injects some international influence over its dishes. A range of kwetiau, from chicken to seafood, is available for order. Top tips are the fried rice solaria, kwetiau solaria, and chicken cordon bleu. Simply click the GrabFood delivery app and your favourite dish from Solaria will arrive!\\n"
+page_title="Solaria Food Delivery Menu &amp; Promo | GrabFood ID"
+meta_description="Get your food delivered to your doorstep with 18 at GrabFood. Find 18 promos and popular dishes and menu - get it delivered hot and fresh."
+
+[chain.solaria-delivery.locales.id-id]
+heading="\"\""
+body="Solaria adalah restoran keluarga yang sudah berdiri selama lebih dari 20 tahun. Pada tahun 1991, sang pemilik memutuskan berhenti kerja kantoran untuk mendirikan Solaria dengan empat karyawannya. Beberapa tahun kemudian, Solaria semakin bergaung karena ragam makanannya yang mudah disantap oleh siapa saja dan dijajakan dengan harga bersahabat di dalam tempat makan yang nyaman. Dua puluh tahun kemudian, popularitasnya semakin berkibar dan sekarang Solaria bisa ditemukan lewat 200 cabangnya yang tersebar di 31 provinsi di Indonesia.\\n\\nMenu mereka menawarkan sajian dari berbagai negara walaupun mayoritasnya adalah citarasa makanan rumahan Asia. Kamu bisa memilih dari rasa lokal Nasi Goreng Teri Medan dan Cumi Goreng Rica-rica, rasa Asia Ayam Teriyaki dan Chicken Bulgogi, hingga rasa Barat seperti Chicken Cordon Bleu dan Spaghetti Bolognaise. Menu mereka cocok untuk makan perorangan maupun untuk sekeluarga.\\n\\nKalau kamu bingung mau makan apa di rumah atau lagi malas masak untuk sekeluarga, tinggal klik saja aplikasi delivery GrabFood dan pesan makanannya Solaria. Sudah pasti enak, disukai semua orang, dan nggak bikin bingung!\\n"
+page_title="Solaria Makanan Delivery Menu &amp; Promo | GrabFood ID"
+meta_description="Yuk, pesan berbagai menu hits Solaria di GrabFood. Tambah nikmat, ada promo yang bikin hemat!"
+
+
+[chain.bakmi-gm-delivery]
+image="https://growth-public.grab.com/sandbox/imagegallery/gbtjkLSkPqVBQQrnDfclglwzqiQOCEtM.jpg"
+chainName="Bakmi GM"
+numbers='["BakmiGM"]'
+countries='["ID"]'
+
+[chain.bakmi-gm-delivery.locales.id-en]
+heading="\"\""
+body="Established as Bakmi Gajah Mada in 1959 by husband and wife Tjhai Sioe and Loei Kwai Fong in Jakarta, it was not until 1971 before  a branch opened in Melawai, South Jakarta. The original dishes, Bakmi Ayam GM and Pangsit Goreng (fried wonton), are still loved by many even though the brand now offers a diverse menu of more than 50 dishes of noodles, rice, and more. Noodles are the signature dish firm favourites include Bakmi Daging Sapi Cah Cabai, Bakmi Cap Cay, and Yi Fu Mie (or Yi Fu Mie Ni for small tummies).\\n\\nThe Bakmi Spesial GM (GM's Special Noodle) combines a savoury soy sauce chicken on signature flat noodles, sprinkled with button mushrooms that pair nicely with legendary crispy fried wonton; a  taste that cannot be found anywhere else. If you have never tried Bakmi GM, this signature menu item should be your first thing to try. Order  a side of meatballs, wonton soup, or fried wonton (most recommended!).\\n\\nBrowse Bakmi GM's tasty menu on GrabFood and order for delivery now. Say goodbye to queueing at this busy noodle shops."
+page_title="Bakmi GM Food Delivery Menu &amp; Promo | GrabFood ID"
+meta_description="Get your food delivered to your doorstep with 19 at GrabFood. Find 19 promos and popular dishes and menu - get it delivered hot and fresh."
+
+[chain.bakmi-gm-delivery.locales.id-id]
+heading="\"\""
+body="Bakmi GM yang dulunya bernama “Bakmi Gajah Mada” ini didirikan tahun 1959 oleh pasangan suami istri Tjhai Sioe dan Loei Kwai Fong di Jakarta. Bakmi mereka sangat populer kala itu sehingga akhirnya mereka yakin untuk membuka cabang pertamanya di Melawai, Jakarta Selatan pada tahun 1971.\\n\\nWalaupun sekarang menu mereka sudah jauh berkembang hingga ada lebih dari 50 hidangan bakmi, nasi, dan lainnya, tapi hidangan orisinilnya –Bakmi Spesial GM dan Pangsit Goreng– sampai sekarang masih terus dicari semua orang. Bertahun-tahun lamanya sempat hanya tersedia di Jakarta, sekarang penduduk luar Jakarta bisa bernafas lega karena Bakmi GM kini tersedia di beberapa kota besar di Indonesia. Jadi, sekarang kamu bisa pesan Bakmi GM di kotamu lewat delivery GrabFood.\\n\\nBakmi Spesial GM-nya memang spesial. Ayamnya dimasak dengan saus kecap manis dengan taburan jamur kancing. Kalau ditambah dengan pangsit gorengnya yang legendaris, menu satu ini memang tiada duanya. Bakmi yang dipakai juga nggak kalah spesialnya, lho. Berbentuk tipis agak pipih, bakmi enak ini juga bisa disantap di menu-menu lainnya seperti Bakmi Daging Sapi Cah Cabai atau Bakmi Cap Cay yang nggak kalah lezatnya.\\n\\nNggak sabar menikmati Bakmi GM? Yuk, hindari keramaian dan antrian di gerai Bakmi GM dengan memesan lewat GrabFood."
+page_title="Bakmi GM Makanan Delivery Menu &amp; Promo | GrabFood ID"
+meta_description="Yuk, pesan berbagai menu hits Bakmi GM di GrabFood. Tambah nikmat, ada promo yang bikin hemat!"
+
+
+[chain.gokana-ramen--teppan-delivery]
+image="https://growth-public.grab.com/sandbox/imagegallery/mONJIQbKRMnHzXQdArHrEyxxYEdtVaNc.jpg"
+chainName="Gokana Ramen & Teppan"
+numbers='["GokanaRamenTeppan"]'
+countries='["ID"]'
+
+[chain.gokana-ramen--teppan-delivery.locales.id-en]
+heading="\"\""
+body="Established in 2004, Gokana Ramen &amp; Teppan offers affordable halal Japanese food that caters to the Indonesian palate. Its menu consists of a variety of rice dishes and noodles, and the ramen in particular is known for its spiciness — the restaurant used to award a prize to customers who could finish the Super Extra Hot Ramen within 20 minutes! If you haven't had the chance to join the contest in the past, why don't you order the Beef or Chicken Hot Ramen Jumbo and challenge yourself?\\n\\nNot in the mood for noodles? Try the best-selling Chicken or Beef Original Bento, or the crunchy Katsu Bento. Or, try the Japanese style fried rice, Yakimeshi, with crispy ebi tempura, ebi maki, chicken, or egg roll. If you're hungry, the meal set offers rice, veggies, and meat and is guaranteed to satisfy, especially if you also order sides and appetisers like the Chicken Nanban (Japanese fried chicken) or the Crispy Ebi Tempura.\\n\\nBrowse the menu on GrabFood and have these delectable Japanese dishes delivered straight to you!\\n"
+page_title="Gokana Ramen &amp; Teppan Food Delivery Menu &amp; Promo | GrabFood ID"
+meta_description="Get your food delivered to your doorstep with 22 at GrabFood. Find 22 promos and popular dishes and menu - get it delivered hot and fresh."
+
+[chain.gokana-ramen--teppan-delivery.locales.id-id]
+heading="\"\""
+body="Didirikan pada tahun 2004, Gokana Ramen &amp; Teppan menawarkan masakan Jepang yang halal, murah, dan cocok di lidah orang Indonesia. Menu mereka terdiri dari berbagai santapan nasi dan mie.\\n\\nPesan deh hidangan best-seller mereka, yaitu Original Bento dengan pilihan daging ayam atau sapi. Atau menu katsu-nya yang renyah dan sudah dilengkapi dengan nasi putih. Selain itu, yakimeshi atau nasi goreng a la Jepangnya juga enak dan ada pilihan lauk ebi tempura krispi, ebimaki, ayam, ataupun egg roll. Waktu perut lagi kosong-kosongnya, paket mereka yang sudah termasuk nasi, sayuran, dan daging memang bakal bikin kenyang dan puas. Semua kelezatan ini bisa kamu nikmati di kenyamanan rumahmu. Buka saja GrabFood dan kamu tinggal tunggu delivery hidangan Jepang ini sampai.\\n\\nPsst, di awal berdirinya, Gokana pernah mengadakan kontes, lho. Mereka menantang pelanggannya untuk menghabiskan semangkuk besar Super Extra Hot Ramen (ramen super pedas) hanya dalam waktu 20 menit. Karena kontes populer inilah, ramen mereka jadi identik dengan ramen pedas. Kalau kamu nggak pernah mengikuti kontes ini di masa lalu, coba saja tantang dirimu sendiri dengan memesan Hot Ramen Jumbo dengan pilihan daging sapi atau ayamnya. Jangan lupa sekalian order minuman dinginnya ya buat jaga-jaga.\\n"
+page_title="Gokana Ramen &amp; Teppan Makanan Delivery Menu &amp; Promo | GrabFood ID"
+meta_description="Yuk, pesan berbagai menu hits Gokana Ramen &amp; Teppan di GrabFood. Tambah nikmat, ada promo yang bikin hemat!"
+
+
+[chain.aw-delivery]
+image="https://growth-public.grab.com/sandbox/imagegallery/jUHngzXnAvGfoSUFDUqUQPzSesUhlzUk.jpg"
+chainName="A&W"
+numbers='["AW"]'
+countries='["ID"]'
+
+[chain.aw-delivery.locales.id-en]
+heading="\"\""
+body="A&amp;W is an American chain of fast food restaurants famous for its root beer, root beer floats and burgers. The journey began in California in 1919 when Roy W. Allen sold his root beers at a parade honouring World War I veterans. Since then the humble stall has grown into a fast food chain giant, with outlets around the world. Today, A&amp;W root beer, which is made with natural sugar cane, sarsaparilla root, licorice, birch bark and anise, is still served as fresh as ever in signature frosty mugs.\\n\\nIn Indonesia, A&amp;W serves not only the classic menu of root beer floats and burgers, but also Indonesian favourites such as rice with fried chicken, and chicken soup. Many love the fried chicken for being not too oily, not too breaded, with just the right flavouring. There are two different types of fried chicken available%3A the not-spicy Golden Aroma Chicken and the Spicy Aroma Chicken with red peppers sprinkled on top.\\n\\nHungry yet? Order these American favourites from A&amp;W from GrabFood for delivery straight to your door.\\n"
+page_title="A&amp;W Food Delivery Menu &amp; Promo | GrabFood ID"
+meta_description="Get your food delivered to your doorstep with 23 at GrabFood. Find 23 promos and popular dishes and menu - get it delivered hot and fresh."
+
+[chain.aw-delivery.locales.id-id]
+heading="\"\""
+body="A&amp;W adalah gerai cepat saji Amerika Serikat yang terkenal dengan sajian burger dan root beer float (minuman root beer bermahkotakan es krim vanila). Perjalanan gerai ini berawal di Kalifornia pada tahun 1919 waktu pendirinya, Roy W. Allen, menjual root beer kreasinya di sebuah parade penghormatan bagi para veteran Perang Dunia I. Sejak itu, gerai sederhananya bertumbuh menjadi gerai cepat saji ternama yang tersebar di seluruh dunia. Root beer A&amp;W terbuat dari gula alami, akar tanaman sarsaparila, akar manis, kulit kayu birch, serta anis, dan sampai sekarang masih terus memberi kesegaran unik yang sama dalam gelas khas root beer A&amp;W.\\n\\nDi Indonesia, A&amp;W nggak hanya menyajikan menu klasik di atas tapi juga makanan favorit orang Indonesia, yaitu nasi dengan ayam goreng, serta sup ayam. Banyak yang jatuh hati dengan ayam gorengnya yang nggak terlalu berminyak dan nggak memakai tepung terlalu banyak. Ada dua pilihan ayam goreng%3A Golden Aroma Chicken yang nggak pedas, dan Spicy Aroma Chicken yang pedasnya didapat dari paprika merah. Pas ayamnya dimakan dengan nasi hangat, hmm… enak banget deh pokoknya.\\n\\nBikin lapar, kan? Buruan yuk pesan menu A&amp;W favoritmu di delivery GrabFood sekarang."
+page_title="A&amp;W Makanan Delivery Menu &amp; Promo | GrabFood ID"
+meta_description="Yuk, pesan berbagai menu hits A&amp;W di GrabFood. Tambah nikmat, ada promo yang bikin hemat!"
+
+
+[chain.ayam-keprabon-express-delivery]
+image="https://growth-public.grab.com/sandbox/imagegallery/LKAJpcRTvaoLfkWhYTQmyODwLkMeAQzP.jpg"
+chainName="Ayam Keprabon Express"
+numbers='["AyamKeprabonExpress"]'
+countries='["ID"]'
+
+[chain.ayam-keprabon-express-delivery.locales.id-en]
+heading="\"\""
+body="Originating from Solo, Central Java, Ayam Keprabon Express takes pride in its crunchy fried chicken and smashed chicken. The menu here has received such good feedback that  Ayam Keprabon and Ayam Keprabon Express are now available in many big cities throughout Indonesia.\\n\\nThe popular menu items are Ayam Geprek (smashed chicken) and Ayam Geprek Blenger (smashed chicken with melted mozzarella cheese). The chicken is smashed so it  resembles shredded  chicken meat, very easy to eat with just a spoon and fork. Choose whether you want the chicken with rice or mixed with noodles. For spice lovers the sambal is available from level 1 to 5 with even the lowest level containing four chillies. There are different sambals too. Sambal Bawang (onion and garlic chili paste), Sambal Karca (curry and rica style chili paste), and Sambal Matah (Balinese chili paste). So, when you order Ayam Keprabon Express for delivery, don't forget to mention the heat of your sambal level too!\\n\\nFor additional crunchiness, you can also order Nasi Krikil%3A white rice with crunchies, the winning factor for any kids (and adults, too!)."
+page_title="Ayam Keprabon Express Food Delivery Menu &amp; Promo | GrabFood ID"
+meta_description="Get your food delivered to your doorstep with 24 at GrabFood. Find 24 promos and popular dishes and menu - get it delivered hot and fresh."
+
+[chain.ayam-keprabon-express-delivery.locales.id-id]
+heading="\"\""
+body="Berasal dari Solo, Ayam Keprabon Express merupakan versi cepat saji dari merek Ayam Keprabon. Gerai ini sudah menjajakan ayam goreng kremes dan ayam geprek sejak tahun 2015 dan mendapat respon positif di Solo. Respon terhadap menu mereka begitu baiknya sampai banyak yang mau Ayam Keprabon hadir di kota-kota selain Solo. Akhirnya pada tahun 2017, Ayam Keprabon mulai melebarkan sayapnya ke berbagai kota lainnya di pulau Jawa hingga ke Banjarmasin dan Makassar.\\n\\nMenu yang banyak dipesan di sini adalah Ayam Geprek serta Ayam Geprek Blenger (ayam geprek yang diselimuti dengan lelehan keju mozzarella). Ayamnya digeprek sebegitu rupa hingga hampir mirip dengan ayam suwir, jadi makannya juga gampang, nggak harus pakai tangan. Tinggal dipilih mau ayamnya dimakan dengan nasi atau Indomie.\\n\\nWaktu pesan, kamu juga bisa memilih jenis sambalmu, lho. Ada Sambal Bawang, Sambal Karca (Kari dan Rica-Rica), dan Sambal Matah yang bisa dipilih dari Level 1 sampai Level 5. Setiap level ini mewakili 4 cabe, lho, jadi perhitungkan ketahanan pedasmu, ya. Untuk menambah citarasa renyah, cobain deh Nasi Krikilnya. Nasi Krikil adalah nasi bertabur kremes gurih yang pasti bakal jadi favorit semua umur.\\n\\nYuk, pesan Ayam Keprabon Express sekarang. Delivery GrabFood siap untuk mengantar ke rumahmu kapan saja!"
+page_title="Ayam Keprabon Express Makanan Delivery Menu &amp; Promo | GrabFood ID"
+meta_description="Yuk, pesan berbagai menu hits Ayam Keprabon Express di GrabFood. Tambah nikmat, ada promo yang bikin hemat!"
+
+
+[chain.starbucks-delivery]
+image="https://growth-public.grab.com/sandbox/imagegallery/agyHdxfdYsjIxoxaCMbecNPudXorNTaB.jpg"
+chainName="Starbucks"
+numbers='["starbucks,Starbucks"]'
+countries='["ID"]'
+
+[chain.starbucks-delivery.locales.id-en]
+heading="\"\""
+body="This famous coffee chain opened its first shop in 1971 in Seattle's Pike Place Market, selling roasted beans only before adding an espresso-based menu to introduce a coffeehouse culture to locals. The menu of innovative flavoured coffees and blended drinks we now know and love evolved over the years, alongside the expansion of the Starbucks brand across the world.\\n\\nEver since its early days, Starbucks' mission was to serve great coffee from freshly roasted whole beans — which at that time, was uncommon. The name Starbucks itself was inspired by a character in the sea-faring novel Moby Dick, and its iconic mermaid logo was a nod to ships that travelled the world delivering coffee beans.\\n\\nStarbucks opened its first store in Indonesia in Plaza Indonesia, Jakarta, in 2002 and hasn't looked back. With a menu that has expanded well beyond coffee drinks, you can now order premium tea and one of its best-selling drinks, the Frappucinno, which to some teenagers, is the beginning of an exciting coffee journey! And, of course, there's a great menu of sandwiches, paninis, salads and pastries to turn your favourite drink order into a meal.\\n\\nAround the world, you can find close to 30,000 outlets across 78 countries. In Indonesia alone, there are more than 320 outlets in 22 cities. And your favourite drinks and treats from Starbucks are available to order from GrabFood for delivery right now!\\n"
+page_title="Starbucks Food Delivery Menu &amp; Promo | GrabFood ID"
+meta_description="Get your food delivered to your doorstep with 26 at GrabFood. Find 26 promos and popular dishes and menu - get it delivered hot and fresh."
+
+[chain.starbucks-delivery.locales.id-id]
+heading="\"\""
+body="Kedai kopi yang sudah melanglang buana ini membuka toko pertamanya di Seattle, Amerika Serikat pada tahun 1971. Nama Starbucks sendiri terinspirasi dari karakter Moby Dick dan logo putri duyungnya yang mengingatkan kita tentang kapal-kapal yang berkeliling dunia untuk mengantar biji kopi. Awalnya, Starbucks hanya menjual biji kopi tapi mereka lalu mulai menawarkan menu espresso dan suasana kedai kopi nyaman, sesuatu yang nggak umum di masa tersebut. \\n\\nDi Indonesia sendiri, Starbucks membuka gerai pertamanya di Plaza Indonesia, Jakarta pada tahun 2002. Sejak itu, Starbucks terus melaju kencang dengan menu yang nggak lagi cuma mencakup kopi, tapi juga merambah ke dunia teh premium dengan menu-menu seperti Black Tea Latte, Earl Grey Tea Latte, Teavana, sampai Iced Shaken Lemonade Tea. Salah satu minuman kopi populernya adalah Frappuccino, yakni, minuman dingin berbahan kopi campuran yang seringkali mengawali perjalanan cinta panjang seseorang dengan kopi. Selain minuman, Starbucks juga menyediakan menu makanan seperti sandwich, panini, salad, dan pastry yang cocok disantap bersama dengan minumanmu.\\n\\nKalau kamu perlu kopi atau teh untuk menemani harimu, langsung saja pesan di GrabFood untuk dikirim delivery ke tempatmu. No ribet, no buang waktu."
+page_title="Starbucks Makanan Delivery Menu &amp; Promo | GrabFood ID"
+meta_description="Yuk, pesan berbagai menu hits Starbucks di GrabFood. Tambah nikmat, ada promo yang bikin hemat!"
+
+
+[chain.bebek-kaleyo-delivery]
+image="https://growth-public.grab.com/sandbox/imagegallery/uCogyINQpvoIwFwYNcQtlKVENhXeNcPx.jpg"
+chainName="Bebek Kaleyo"
+numbers='["BebekKaleyo"]'
+countries='["ID"]'
+
+[chain.bebek-kaleyo-delivery.locales.id-en]
+heading="\"\""
+body="Who doesn't love duck? Slightly richer than chicken with its own distinctive fragrant aroma, duck is often considered more upscale—a special occasion choice. But the four owners of Bebek Kaleyo want everyone to enjoy this special delicacy as a regular dish.\\n\\nWithout a strong culinary background, Hendri Prabowo, Fenty Puspitasari, Paulus Maria, and Riri Cahyanti collected nearly 300 pages of recipes about how to prepare and cook chicken as their inspiration to spice up their duck menu. Why take inspiration from chicken? Because recipes for duck is much less common! Testing their recipes on family and friends, they opened the business in 2007 and now have 17 outlets all over Java.\\n\\nNeither a trend nor a seasonal item, for anyone wanting something more special for dinner without breaking the budget, Bebek Kaleyo is the answer. Accompanied by various options of sambal to order, enjoying a plate from Bebek Kaleyo will always be a memorable experience.\\n\\nOrder hot items, such as fried duck, grilled duck, or duck with green sambal, and get them delivered to your home for an extra enjoyable experience.\\n"
+page_title="Bebek Kaleyo Food Delivery Menu &amp; Promo | GrabFood ID"
+meta_description="Get your food delivered to your doorstep with 28 at GrabFood. Find 28 promos and popular dishes and menu - get it delivered hot and fresh."
+
+[chain.bebek-kaleyo-delivery.locales.id-id]
+heading="\"\""
+body="Siapa sih yang nggak suka bebek? Memiliki cita rasa yang lebih kompleks dari ayam dengan aroma yang harum, bebek memang pilihan premium serta sajian yang sesuai untuk acara spesial. Tergolong hidangan premium, para pemilik Bebek Kaleyo memiliki pemikiran yang berbeda, yakni, supaya semua orang bisa menikmati bebek tanpa harus merogoh kocek terlalu dalam.\\n\\nMeskipun nggak ada latar belakang kuliner tapi para pemiliknya yakin dengan visi mereka tersebut. Hampir 300 halaman resep tentang cara menyiapkan dan memasak ayam dikumpulkan untuk memberi inspirasi menu Bebek Kaleyo. Kok pakai resep daging ayam? Memang, karena resep untuk daging bebek jarang tersedia sehingga mereka harus bereksperimen dengan resep untuk ayam yang masih keluarga dekat bebek. Setelah melewati proses tes cicip-mencicip yang dilakukan para keluarga dan kerabat, Bebek Kaleyo akhirnya pede untuk membuka outlet pertamanya pada tahun 2007. Kini, merek satu ini sudah punya 17 gerai yang tersebar di seluruh pulau Jawa.\\n\\nYang mau hidangan spesial tapi ramah di kantong, wajib banget untuk mencoba Bebek Kaleyo. Pesan saja menu favorit mereka –bebek goreng, bebek panggang, dan bebek sambal ijo– lalu pilih delivery ke rumahmu untuk pengalaman yang ekstra. Disajikan dengan ragam pilihan sambal, hidangan Bebek Kaleyo pasti akan memberikan pengalaman yang nggak akan terlupakan."
+page_title="Bebek Kaleyo Makanan Delivery Menu &amp; Promo | GrabFood ID"
+meta_description="Yuk, pesan berbagai menu hits Bebek Kaleyo di GrabFood. Tambah nikmat, ada promo yang bikin hemat!"
+
+
+[chain.martabak-orient-delivery]
+image="https://growth-public.grab.com/sandbox/imagegallery/rizASeJAvpGxhULGGaQcJkVJKZmoXaSo.jpg"
+chainName="Martabak Orient"
+numbers='["MartabakOrient"]'
+countries='["ID"]'
+
+[chain.martabak-orient-delivery.locales.id-en]
+heading="\"\""
+body="Whether you prefer your sweet martabak in the traditional way or in modern pizza-looking style, Martabak Orient is ready to deliver. Whatever your taste, there's a wide selection of bases for your sweet martabak besides the original butter. A popular menu item is the pandan base that emits a fragrant aroma and is the ultimate comfort food. Another interesting option to order here is the 4-Flavour Pizza Martabak, perfect for sharing with friends – even if everyone likes a different flavour! All are served on the same pizza martabak, next to one another.\\n\\nFor chocolate or cheese lovers, Martabak Orient offers you plenty of options. A popular cheesy item is the Durian Keju flavour. Using real durian fruit, the unique flavour pairs nicely with the cheese. For chocolate lovers, the classic chocolate cheese flavour balances the sweetness from the chocolate and the saltiness of the cheese.\\n\\nAnd if you're into something savoury, don't miss out on the egg martabak, packed with minced meat. For extra zing, try dipping it into the vinegar sauce! Martabak Orient is renowned for its generous amount of toppings. So, if you're looking for a good afternoon or late night snack that will satisfy your cravings (whether savoury or sweet), check out this martabak outlet now.\\n"
+page_title="Martabak Orient Food Delivery Menu &amp; Promo | GrabFood ID"
+meta_description="Get your food delivered to your doorstep with 30 at GrabFood. Find 30 promos and popular dishes and menu - get it delivered hot and fresh."
+
+[chain.martabak-orient-delivery.locales.id-id]
+heading="\"\""
+body="Mau martabak manis yang tradisional atau yang modern berbentuk pizza, semuanya ada dong di Martabak Orient. Di sini pilihan dasar martabaknya juga beragam. Ada si klasik mentega sampai rasa non-klasik seperti pandan yang harumnya bikin hmm..... Martabak pizzanya juga menyediakan opsi Martabak Pizza 4 Rasa dimana kamu bisa memilih 4 topping berbeda dalam satu loyang. Cocok banget kan buat dimakan rame-rame?\\n\\nPecinta cokelat dan keju juga pasti hepi banget melihat deretan pilihan di menu Martabak Orient. Yang suka keju, bisa coba Martabak Durian Keju yang rasa durian aslinya berpadu unik dengan rasa legit keju. Yang suka cokelat, bisa coba rasa paling aman yang disukai semua orang%3A Cokelat Keju. Rasa manis cokelatnya berimbang sempurna dengan rasa asin dari kejunya.\\n\\nSelain martabak manis, Martabak Orient juga menjual martabak telur yang gurih. Nggak hanya enak, tapi pasti bikin kamu kenyang soalnya isian martabak telur di sini tuh murah hati banget. Daging isiannya sampai meluber ke mana-mana, jaminan kebahagiaan hati dan perut yang menyantapnya.\\n\\nJadi kalau lagi pengen ngemil, jangan sampai lupa cek Martabak Orient. Pesan saja lewat delivery GrabFood biar nggak perlu ngantri di outletnya."
+page_title="Martabak Orient Makanan Delivery Menu &amp; Promo | GrabFood ID"
+meta_description="Yuk, pesan berbagai menu hits Martabak Orient di GrabFood. Tambah nikmat, ada promo yang bikin hemat!"
+
+
+[chain.shihlin-delivery]
+image="https://growth-public.grab.com/sandbox/imagegallery/izZYsehYCiZTojrZhnhRBABggaOMqUnY.jpg"
+chainName="Shihlin's Taiwan Street Snacks"
+numbers='["Shihlin"]'
+countries='["ID"]'
+
+[chain.shihlin-delivery.locales.id-en]
+heading="\"\""
+body="Shihlin's Taiwan Street Snacks offers a different kind of fried chicken. Boneless, cut as fillet, and deep fried until it's golden, it's mouthwateringly crispy and meaty. Eaten as a snack without a hint of rice, it is truly the icon of Taiwanese street food.\\n\\nThe name Shihlin is derived from the biggest and most famous night market in Taiwan. Here, you can sample Taiwan's endless options of local delicacies from more than 500 stalls. Shihlin's Taiwan Street Snacks is a nod to this famous destination. And it's proudly showcasing Taiwanese food to the world.\\n\\nWith outlets around the world, Shihlin is the leading Taiwanese street snack outlet in the world, and Indonesia is one of its biggest fans! Launched in Indonesia in 2007, there are now around 130 outlets in the country.\\n\\nEven though its XXL Crispy Chicken remains a firm favourite, you can order other street snacks from the menu. Crispy salt pepper mushroom, sweet plum potato fries and crispy floss egg crepes are a nice overview of Taiwan's street food culture. Or if you want a twist on the XXL Crispy Chicken, simply order the BBQ or other seasonings.\\n\\nShihlin is famous for food that's great to-go, and delivery-friendly. Head to the counter, order, pay, then pick up your food already wrapped inside a thin paper fold, with sticks to eat it with, just like in Taiwan. Or even better, sit back, relax, order, and wait for it to be delivered to you!\\n"
+page_title="Shihlin's Taiwan Street Snacks Food Delivery Menu &amp; Promo | GrabFood ID"
+meta_description="Get your food delivered to your doorstep with 38 at GrabFood. Find 38 promos and popular dishes and menu - get it delivered hot and fresh."
+
+[chain.shihlin-delivery.locales.id-id]
+heading="\"\""
+body="Shihlin menawarkan ayam goreng a la Taiwan yang berbeda. Tanpa tulang dan dipotong dalam bentuk fillet kemudian digoreng hingga keemasan, rasa ayamnya yang renyah dan berdaging tebal ini begitu menggiurkan bahkan waktu dicamil tanpa nasi. Snack satu ini memang ikonnya street food Taiwan. Nama Shihlin diambil dari nama pasar malam paling terkenal di Taiwan. Di pasar ini, kamu bisa mencicipi berbagai masakan lokal Taiwan dari ratusan gerai yang buka sampai tengah malam. Shihlin's Taiwan Street Snacks kurang lebih adalah versi mini pasar kuliner tersebut.\\n\\nMenu andalan Shihlin adalah XXL Crispy Chicken yang hadir dalam rasa berbeda-beda, salah satunya BBQ. Selain itu, Shihlin juga menawarkan menu lain yang nggak kalah enaknya seperti Crispy Salt Pepper Mushroom, Sweet Plum Potato Fries, dan Crispy Floss Egg Crepes. Semua citarasa ini bakal memberi kamu gambaran tentang serunya pasar jajanan Shihlin aslinya.\\n\\nBerdiri di Indonesia sejak tahun 2007, Shihlin sekarang bisa dijumpai di lebih dari 130 gerai di penjuru negeri, memudahkan kamu yang mau memesan delivery camilan a la Taiwan ini dari tempat tinggalmu. Tinggal buka GrabFood dan, woosh, snack Taiwan ini pun sampai di hadapanmu.\\n"
+page_title="Shihlin's Taiwan Street Snacks Makanan Delivery Menu &amp; Promo | GrabFood ID"
+meta_description="Yuk, pesan berbagai menu hits Shihlin's Taiwan Street Snacks di GrabFood. Tambah nikmat, ada promo yang bikin hemat!"
+
+
+[chain.makaroni-ngehe-delivery]
+image="https://growth-public.grab.com/sandbox/imagegallery/XZBXtatxnZdbxVjElnwmlQDWBDsuWxSk.jpg"
+chainName="Makaroni Ngehe"
+numbers='["MakaroniNgehe"]'
+countries='["ID"]'
+
+[chain.makaroni-ngehe-delivery.locales.id-en]
+heading="\"\""
+body="Ever wonder why this brand is called 'ngehe' (annoying)? It apparently stems from the owner's amusing life story.\\n\\nAli Dharmawan grew up with financial challenges throughout his life, and rose up to turn things around for his family. Being a really good businessman. Makaroni was his mother's favourite recipe to make during Idul Fitri and it became his favourite, too. Using these recipes, Ali then opened the first Makaroni Ngehe outlet in 2013 at Binus Anggrek University.\\n\\nOffering budget-friendly snacks and a menu of childhood favourites such as mi lidi, Makaroni Ngehe was an immediate hit among college students. Aside from mi lidi, you can also order otak-otak, cimol, dried macaroni, and many other snacks that are loaded with umami flavours.\\n\\nToday the company is franchised throughout Java. Now you can order these childhood snacks wherever you are in Java and Sumatera. Or to make things easier, simply choose GrabFood delivery!\\n\\nOn the official website, Ali jokingly states that these snacks can cure heartbreak, bad moods, sleepiness, boredom, and many others; and that can't be a bad thing!\\n"
+page_title="Makaroni Ngehe Food Delivery Menu &amp; Promo | GrabFood ID"
+meta_description="Get your food delivered to your doorstep with 40 at GrabFood. Find 40 promos and popular dishes and menu - get it delivered hot and fresh."
+
+[chain.makaroni-ngehe-delivery.locales.id-id]
+heading="\"\""
+body="Tahu nggak kenapa merek satu ini pakai kata ‘ngehe'?\\n\\nTernyata asal muasalnya dari latar belakang hidupnya sang pendiri, Ali Muharram, yang ‘ngehe' banget karena kondisi keuangannya sering jatuh-bangun dan banyak mengalami kesulitan. Karena itulah, Ali bertekad kuat untuk mengubah hidupnya melalui bisnis ini. Pilihan Ali jatuh pada makaroni yang merupakan makanan favorit keluarganya sejak dahulu kala.\\n\\nMakaroni Ngehe menawarkan menu camilan murah seperti mie lidi, otak-otak, cimol, dan makaroni kering yang pastinya bikin kamu susah berhenti ngunyah. Semua snack ini asyik banget untuk dimakan sambil nonton maupun sambil menemani waktu kerja dan belajarmu. Gerai pertamanya dibuka pada tahun 2013 di Kampus Anggrek Universitas Binus, Jakarta, dan langsung hits di kalangan para mahasiswa. Siapa yang nggak tertarik, coba? Ali berseloroh bahwa camilannya “... ampuh menghilangkan bete, patah hati ditinggal kekasih, ngantuk di tempat kerja, suntuk karena macet, otak mumet karena belajar matematika dan juga untuk menghilangkan gugup saat PDKT.”\\n\\nJadi kalau lagi sedih atau mumet, langsung saja buka delivery makanan GrabFood dan pesan Makaroni Ngehe sekarang juga!"
+page_title="Makaroni Ngehe Makanan Delivery Menu &amp; Promo | GrabFood ID"
+meta_description="Yuk, pesan berbagai menu hits Makaroni Ngehe di GrabFood. Tambah nikmat, ada promo yang bikin hemat!"
+
+
+[chain.martabak-pizza-orins-delivery]
+image="https://growth-public.grab.com/sandbox/imagegallery/RNBSQHjvKyOGGxduOpuLubhyBAErcCDm.jpg"
+chainName="Martabak Pizza Orins"
+numbers='["martabakpizzaorins,MartabakPizzaOrins"]'
+countries='["ID"]'
+
+[chain.martabak-pizza-orins-delivery.locales.id-en]
+heading="\"\""
+body="When Sony Arca Adryanto saw that his kids, Ometh and Rain, only ate the bottom part of a martabak because it absorbed all the flavours of the toppings an idea sprang to mind%3A martabak pizza.  \\n\\nMartabak is traditionally folded into a half-moon shape. Sony Arca keeps his martabak open, pizza-like with toppings generously sprinkled on top. In other words, when you order Orins' pizza, you get double the amount of topping!\\n\\nIn 2011, Sony opened his first martabak pizza outlet,  modernising the traditional martabak and offering something different. On the menu, you can find more than 25 options of sweet martabak, 13 different toppings, 9 options of savoury martabak, and 4 different bases (dark chocolate, pandan, red velvet dan and green tea). Favourite toppings include Ovomaltine and Cream Cheese Oreo, and for martabak telor lovers, the Indomie Superhot and Spaghetti Bolognese hit the spot.\\n\\nFor a delicious snack, try the mini size, perfect to be delivered to your home to satisfy and midnight cravings.  "
+page_title="Martabak Pizza Orins Food Delivery Menu &amp; Promo | GrabFood ID"
+meta_description="Get your food delivered to your doorstep with 43 at GrabFood. Find 43 promos and popular dishes and menu - get it delivered hot and fresh."
+
+[chain.martabak-pizza-orins-delivery.locales.id-id]
+heading="\"\""
+body="Waktu Sony Arca Adryanto melihat anak-anaknya, Ometh dan Rain, hanya memakan bagian bawah martabak karena bagian tersebutlah yang menyerap topping paling banyak, sebuah ide baru muncul di kepalanya, yaitu martabak pizza. Pada umumnya, martabak dilipat menjadi dua atau setengah lingkaran, tapi Sony tetap membuka martabak tersebut sehingga terlihat seperti lingkaran pizza, lalu topping-­­nya ia taburkan di atasnya. Jadilah gerai Martabak Pizza Orins pertama pada tahun 2011 sebagai pelopor martabak pizza di Jakarta.\\n\\nSelain inovasi martabak pizza yang sekarang sudah menjadi tren kekinian di dunia martabak Jakarta, Sony juga memodernisasi rasa martabak dan menawarkan rasa-rasa berbeda. Di menunya, kamu bisa menemukan lebih dari 25 pilihan martabak manis, 13 jenis topping, 9 jenis martabak asin, dan 4 jenis rasa adonan (cokelat, pandan, red velvet, dan teh hijau). Topping favorit untuk martabak manisnya adalah Ovomaltine dan Cream Cheese Oreo, sedangkan rasa unik martabak telurnya yang wajib dipesan adalah Indomie Superhot dan Spaghetti Bolognese.\\n\\nOh iya, Martabak Pizza Orins juga menawarkan martabaknya dalam empat ukuran, lho%3A dari yang mini untuk perorangan sampai ukuran Jumbo untuk pesta rame-rame! Semuanya bisa dengan gampang kamu pesan untuk delivery lewat aplikasi GrabFood."
+page_title="Martabak Pizza Orins Makanan Delivery Menu &amp; Promo | GrabFood ID"
+meta_description="Yuk, pesan berbagai menu hits Martabak Pizza Orins di GrabFood. Tambah nikmat, ada promo yang bikin hemat!"
+
+
+[chain.ayam-geprek-juara-delivery]
+image="https://growth-public.grab.com/sandbox/imagegallery/nxwaXsEjGpsizltmuiCwuCkzRWsyTnAy.jpg"
+chainName="Ayam Geprek Juara"
+numbers='["AyamGeprekJuara,ayamgeprekjuara"]'
+countries='["ID"]'
+
+[chain.ayam-geprek-juara-delivery.locales.id-en]
+heading="\"\""
+body="“It's sooo yummy!”\\n\\nThis is Ayam Geprek Juara's tagline, and it stands true. Affordable for most, Ayam Geprek Juara serves juicy fried chicken along with a tasty sambal with different levels of spiciness that can be ordered to your liking. It is truly a winning dish. Whether you ask for a red, green, or terasi sambal, or even a mozzarella cheese sauce, a set meal set of Ayam Geprek Juara will leave you satisfied!\\n\\nLaunched in 2013 with the name “Ayam Geprek Sambal Korek” in Cakung, East Jakarta, the owner decided to change the name into “Ayam Geprek Juara Sambal Korek”  or simply “Ayam Geprek Juara” in 2015. Ayam Geprek Juara hopes to provide nutritional food at affordable prices for all, and to support entrepreneurship through its affordable franchise system.\\n\\nInterested to try it for yourself? Ayam Geprek Juara is now available in many cities. Check your GrabFood for your nearest outlet and order the famously crispy and juicy Ayam Geprek Juara chicken for delivery.\\n"
+page_title="Ayam Geprek Juara Food Delivery Menu &amp; Promo | GrabFood ID"
+meta_description="Get your food delivered to your doorstep with 44 at GrabFood. Find 44 promos and popular dishes and menu - get it delivered hot and fresh."
+
+[chain.ayam-geprek-juara-delivery.locales.id-id]
+heading="\"\""
+body="“Enaknya kebangetan!”\\n\\nSlogan Ayam Geprek Juara satu ini memang nggak bisa disangkal. Ayam Geprek Juara menawarkan ayam goreng berdaging juicy dan berkulit kering renyah yang ditemani sambal yang disesuaikan dengan level pedas sesuai maumu. Menu sambalnya menawarkan sambal merah, sambal hijau, dan sambal terasi. Selain pilihan sambal yang menarik ini, kamu juga bisa pesan paket Ayam Geprek Mozarella yang menambahkan keju leleh mozarella ke atas ayam geprekmu. Menunya mungkin sederhana; harganya mungkin sederhana; tapi rasanya dijamin bikin kamu pengen nambah lagi, dan lagi, dan lagi.\\n\\nDidirikan pada tahun 2013 dengan nama “Ayam Geprek Sambal Korek” di Cakung, Jawa Timur, pemiliknya memutuskan untuk mengganti mereknya menjadi “Ayam Geprek Juara Sambal Korek” atau “Ayam Geprek Juara” pada tahun 2015. Keinginan Ayam Geprek Juara adalah menyajikan makanan bergizi yang murah bagi semua orang sekaligus membagi berkah melalui konsep waralabanya. Kalau kamu penasaran dengan ayam geprek murah, juicy, dan enak ini, buka saja GrabFood-mu untuk mencari gerai terdekat dan langsung pesan paket ayam gepreknya untuk dikirim lewat delivery.\\n"
+page_title="Ayam Geprek Juara Makanan Delivery Menu &amp; Promo | GrabFood ID"
+meta_description="Yuk, pesan berbagai menu hits Ayam Geprek Juara di GrabFood. Tambah nikmat, ada promo yang bikin hemat!"
+
+
+[chain.kedai-kopi-kulo-delivery]
+image="https://growth-public.grab.com/sandbox/imagegallery/XiJBzOowRXUgKXuWwizMACFtHmcMpnye.jpg"
+chainName="Kedai Kopi Kulo"
+numbers='["KedaiKopiKulo"]'
+countries='["ID"]'
+
+[chain.kedai-kopi-kulo-delivery.locales.id-en]
+heading="\"\""
+body="Kedai Kopi Kulo  promises a menu like no other. And Clement Mathias, founder of Kedai Kopi Kulo, knows that his creativity in crafting the menu will make the brand go wild.  \\n\\nSome of the most popular menu items are Avocatto (avocado juice, one shot of espresso and ice cream, a drink that is also a nod to popular street-fare drinks), Es Kopi Kulo Krim Keju (iced coffee with a thick froth of sweet cream cheese), and Coffeenade (tonic water, lemon, and an espresso shot). Going against the popularity wave of es kopi susu gula aren — the beloved brown sugar iced coffee, Kedai Kopi Kulo proves that coffee is a versatile ingredient and browsing a coffee shop menu can be fun!\\n\\n‘Kulo' means ‘me' in the traditional Javanese language, so Kopi Kulo means ‘My Coffee', which reflects its philosophy to cater to various personas and moods. It's no wonder that Kedai Kopi Kulo is quickly becoming the new beloved coffee brand. Now available in Java, Sumatera, Bali, and Kalimantan, you can order Kedai Kopi Kulo via GrabFood for delivery any time of the day."
+page_title="Kedai Kopi Kulo Food Delivery Menu &amp; Promo | GrabFood ID"
+meta_description="Get your food delivered to your doorstep with 47 at GrabFood. Find 47 promos and popular dishes and menu - get it delivered hot and fresh."
+
+[chain.kedai-kopi-kulo-delivery.locales.id-id]
+heading="\"\""
+body="Clement Mathias, pemilik Kedai Kopi Kulo, paham betul bahwa kreativitas dalam meracik menu unik akan membuat mereknya lebih mudah dikenali. Karena itulah, menu di Kedai Kopi Kulo sangatlah tidak biasa.\\n\\nSalah satu produknya yang populer, Avocatto, merupakan campuran dari jus alpukat, satu shot espresso, dan es krim. Produk ini adalah modifikasi dari minuman klasik Indonesia, yaitu jus alpukat yang biasanya dibarengi dengan susu cokelat kental manis. Selain itu, ada juga si unik Es Kopi Kulo Krim Keju (es kopi dengan krim keju) serta Coffeenade (campuran air tonik, lemon, dan shot espresso). Walau nggak ngikutin tren es kopi susu gula aren, Kedai Kopi Kulo toh ternyata sukses dengan racikan kreatif minuman-minuman kopinya.\\n\\n‘Kulo' sendiri artinya adalah ‘saya' dalam bahasa Jawa halus, sehingga Kopi Kulo artinya adalah ‘Kopi Saya' yang mencerminkan filosofinya untuk menjadi kedai kopi tujuan bagi siapapun. Nggak heran Kedai Kopi Kulo terus bertumbuh hingga sekarang hadir di Jawa, Sumatera, Bali, dan Kalimantan. Keberadaannya di seantero Indonesia ini memudahkan banyak orang untuk mencoba Kopi Kulo baik melalui gerainya maupun lewat delivery seperti GrabFood.\\n\\nMau pesan kopi yang berbeda? Coba saja Kedai Kopi Kulo. Siapa tahu kamu dapat favorit tempat kopi baru. \\n"
+page_title="Kedai Kopi Kulo Makanan Delivery Menu &amp; Promo | GrabFood ID"
+meta_description="Yuk, pesan berbagai menu hits Kedai Kopi Kulo di GrabFood. Tambah nikmat, ada promo yang bikin hemat!"
+
+
+[chain.waroenk-kito-delivery]
+image="https://growth-public.grab.com/sandbox/imagegallery/goJtIthETpaSsNNIqBsPqwZjbgrqCLJg.jpg"
+chainName="Waroenk Kito"
+numbers='["WaroenkKito"]'
+countries='["ID"]'
+
+[chain.waroenk-kito-delivery.locales.id-en]
+heading="\"\""
+body="With its tagline “Everyday You Can Eat” Waroenk Kito's great variety of tasty homely meals and great prices allow diners to eat to their heart's content; every day! Founded in 2001 in West Jakarta, it is now available in many places in and outside Jakarta, making it convenient for delivery.\\n\\nIf you have never been to Waroenk Kito before, you may be overwhelmed by the size of the menu here. Dining on your own? Try the Nasi Goreng Keju (cheese fried rice). This fried rice is almost covered by egg omelette, and showered with grated cheese. Another popular item for a single serving is the Nasi Goreng Seafood (seafood fried rice) with fish, calamari, and shrimp. The branch in Tanjung Duren, West Jakarta mentioned that this Nasi Goreng Seafood is ordered every single day; and loved by all.\\n\\nWant to order for the whole family? Make it fun by having everyone choose a dish from the festive menu. If you're not sure where to start, consider any (or all) of these popular items%3A Gurame Asam Manis (Sweet and Sour Carp), Sapo Tahu Ayam (Chicken and Tofu in Claypot), Ayam Goreng, and Cap Cay Goreng.\\n\\nWhat are you waiting for? Order now via GrabFood and enjoy a hearty meal today."
+page_title="Waroenk Kito Food Delivery Menu &amp; Promo | GrabFood ID"
+meta_description="Get your food delivered to your doorstep with 49 at GrabFood. Find 49 promos and popular dishes and menu - get it delivered hot and fresh."
+
+[chain.waroenk-kito-delivery.locales.id-id]
+heading="\"\""
+body="Waroenk Kito merealisasikan mottonya, Everyday You Can Eat, melalui variasi makanan rumahan dengan harga sangat terjangkau sehingga bisa dinikmati oleh semua kalangan. Dengan prinsipnya ini, nggak heran Waroenk Kito yang didirikan pada tahun 2001 di Jakarta ini sudah menyebar ke seluruh Jakarta hingga luar Jakarta.\\n\\nKalau belum biasa dengan menu Waroenk Kito, mungkin kamu bingung memilih makanannya karena pilihannya banyak banget dan semuanya terlihat enak banget. Rekomendasi menu perdana buat kamu yang sendirian adalah Nasi Goreng Kejunya. Nasi goreng ini diselimuti dengan telur dadar tipis dan ditaburi keju parut pada bagian atasnya. Selain itu, Nasi Goreng Seafood-nya juga populer. Saking populernya, cabangnya di Tanjung Duren mengatakan bahwa menu satu ini pasti selalu ada yang pesan setiap harinya.\\n\\nKalau kamu memesan untuk keluarga di rumah, dibikin seru saja. Setiap anggota keluarga harus memilih satu makanan dari menunya yang heboh itu. Kalau ada yang bingung, bisa mulai dari hidangan favorit seperti Gurame Asam Manis, Sapo Tahu Ayam, Ayam Goreng, dan Cap Cay (goreng atau kuah). Semua makanannya terasa homey jadi cocok banget untuk dipesan pas lagi malas memasak. Tinggal pesan delivery saja via GrabFood untuk menikmati masakan rumahan Waroenk Kito di rumah.\\n"
+page_title="Waroenk Kito Makanan Delivery Menu &amp; Promo | GrabFood ID"
+meta_description="Yuk, pesan berbagai menu hits Waroenk Kito di GrabFood. Tambah nikmat, ada promo yang bikin hemat!"
+
+
